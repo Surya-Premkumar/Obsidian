@@ -1,3 +1,6 @@
+---
+node_size: "0"
+---
 #Horizon_Walker #Character 
 
 Exists to die. Weak and feeble. Gotta be somewhat important to the Walkers though so that him being sent makes sense

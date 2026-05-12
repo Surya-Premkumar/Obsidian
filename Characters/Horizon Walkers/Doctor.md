@@ -1,5 +1,10 @@
+---
+node_size: "1"
+---
 #Character 
-Rank 7 Specialises in Black hole Research & combat
+
+
+Rank 7 Mortal Specialises in Black hole Research & combat
 
 So basically, hes like 70 mentally, has dementia from old age, walks with a cane but his body is still 20.
 
@@ -14,3 +19,5 @@ Spent the first 6 months partially following the mission but mostly fucking arou
 
 
 # Death
+
+Bridges the gap to Transcendence directly by using the strength of the [[Black Holes]] the [[Horizon Walkers]] live on the edge of
