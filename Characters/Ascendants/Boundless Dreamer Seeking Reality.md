@@ -1,6 +1,6 @@
 ---
 tags:
-node_size: "1"
+node_size: "2"
 ---
 #Character 
 Principle: Law
