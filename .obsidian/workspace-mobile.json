@@ -48,9 +48,19 @@
               "icon": "lucide-file",
               "title": "Age of Glory"
             }
+          },
+          {
+            "id": "2e104fe88162385f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -197,12 +207,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "6b7a63cd630e061b",
+  "active": "2e104fe88162385f",
   "lastOpenFiles": [
+    "Timeline/Era of Prosperity/Age of Glory.md",
     "Timeline/Current Era/Age of Stars.md",
     "Dao/Soul.md",
     "Timeline/Era of Prosperity/Age of Expanse.md",
-    "Timeline/Era of Prosperity/Age of Glory.md",
     "Timeline/Current Era/Age of Darkness.md",
     "Timeline/Current Era/Modern Era.md",
     "Timeline/Era of Prosperity/Era of Prosperity.md",
