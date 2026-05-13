@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dao/Fate.md",
+                "file": "Dao/Soul.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fate"
+              "title": "Soul"
             }
           }
         ],
@@ -199,10 +199,28 @@
   },
   "active": "6b7a63cd630e061b",
   "lastOpenFiles": [
-    "Characters/Ascendants/Ceaseless Calamities.md",
-    "Dao/Fate.md",
+    "Timeline/Current Era/Age of Stars.md",
+    "Dao/Soul.md",
+    "Timeline/Era of Prosperity/Age of Expanse.md",
+    "Timeline/Era of Prosperity/Age of Glory.md",
+    "Timeline/Current Era/Age of Darkness.md",
+    "Timeline/Current Era/Modern Era.md",
+    "Timeline/Era of Prosperity/Era of Prosperity.md",
+    "Dao/Ice.md",
+    "Timeline/Current Era",
+    "Timeline/Era of Prosperity",
+    "Regions/System Gamma/Planet W.md",
+    "Factions/Coalitions/Coalition.md",
+    "Regions/System Gamma/Planet W",
+    "Regions/System Gamma",
+    "Dao/Fate and Destiny.md",
+    "Factions/Coalitions/Untitled",
+    "Factions/Coalitions",
+    "Factions/Untitled.md",
     "Characters/Ascendants/Wheel of Fortune.md",
     "Characters/Ascendants/Daoist Carving the Path.md",
+    "Dao/Destiny.md",
+    "Characters/Ascendants/Ceaseless Calamities.md",
     "Dao/Self.md",
     "Doctor.md",
     "Impact.md",

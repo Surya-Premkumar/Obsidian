@@ -24,5 +24,5 @@ All things are Dao but Dao is many different things, while that which comprises 
 - [[Earth]]
 - [[Mutation]]
 - [[Destiny]]
-- [[Frost]]
+- [[Ice]]
 - 
