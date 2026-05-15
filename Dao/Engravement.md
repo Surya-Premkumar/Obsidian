@@ -5,7 +5,11 @@ node_size: "3"
 aliases:
   - Rune
 ---
-All things are Dao, and therefore Dao is all things. Engravements are the act of replicating parts of the Dao (Dao of Flowing River : Still Water -> Flowing Water) 
+All things are Dao, and therefore Dao is all things. Engravements are the act of replicating a person's experiences or understanding of the world (Dao of the Flowing River : Still Water -> Flowing Water) 
+
+
+# Physical Engraving 
+Physically engraving a thing ont. Your pmbody makes you more attune
 
 ## Principles
 
@@ -23,6 +27,7 @@ All things are Dao but Dao is many different things, while that which comprises 
 - [[Metal]]
 - [[Earth]]
 - [[Mutation]]
-- [[Destiny]]
+- [[Blood]]
 - [[Ice]]
+- [[Soul]]
 - 

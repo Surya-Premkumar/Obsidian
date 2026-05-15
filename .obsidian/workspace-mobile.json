@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Silver Cov.md",
+                "file": "Characters/Ascendants/Boundless Dreamer Seeking Reality.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Silver Cov"
+              "title": "Boundless Dreamer Seeking Reality"
             }
           }
         ],
@@ -213,8 +213,22 @@
   },
   "active": "2e104fe88162385f",
   "lastOpenFiles": [
-    "Characters/Horizon Walkers/Doctor.md",
+    "Dao/Principle.md",
+    "Dao/Engravement.md",
+    "Regions/System Gamma/Planet W.md",
+    "Dao/Strength.md",
+    "Characters/Ascendants/Ceaseless Calamities.md",
+    "Characters/Ascendants/Boundless Dreamer Seeking Reality.md",
+    "Factions/Organisations/Organisation.md",
+    "Factions/Coalitions/Coalition.md",
+    "Factions/Organisations/Beastkin.md",
+    "Factions/Organisations/Covenant.md",
+    "Factions/Organisations",
+    "Blood Guy.md",
+    "Thousand Bloods.md",
+    "Dao/Blood.md",
     "Silver Cov.md",
+    "Characters/Horizon Walkers/Doctor.md",
     "Timeline/Era of Prosperity/Age of Glory.md",
     "Timeline/Current Era/Age of Stars.md",
     "Dao/Soul.md",
@@ -225,25 +239,12 @@
     "Dao/Ice.md",
     "Timeline/Current Era",
     "Timeline/Era of Prosperity",
-    "Regions/System Gamma/Planet W.md",
-    "Factions/Coalitions/Coalition.md",
     "Regions/System Gamma/Planet W",
     "Regions/System Gamma",
     "Dao/Fate and Destiny.md",
     "Factions/Coalitions/Untitled",
     "Factions/Coalitions",
     "Factions/Untitled.md",
-    "Characters/Ascendants/Wheel of Fortune.md",
-    "Characters/Ascendants/Daoist Carving the Path.md",
-    "Dao/Destiny.md",
-    "Characters/Ascendants/Ceaseless Calamities.md",
-    "Dao/Self.md",
-    "Doctor.md",
-    "Impact.md",
-    "Director.md",
-    "Wanderer.md",
-    "Era of Prosperity.md",
-    "Era of Order.md",
-    "Horizon Walkers.md"
+    "Characters/Ascendants/Wheel of Fortune.md"
   ]
 }
