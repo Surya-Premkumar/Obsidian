@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c3e7b9fd768249e9",
+        "id": "d2b06cbcaa49485a",
         "type": "tabs",
         "children": [
           {
-            "id": "6711a14158849143",
+            "id": "82c5423392916822",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dao/Engravement.md",
+                "file": "Scientist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Engravement"
-            }
-          },
-          {
-            "id": "780e5cc4be06019c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Scientist"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,26 +85,8 @@
     "type": "split",
     "children": [
       {
-        "id": "d8f710d96c3b27cf",
-        "type": "tabs",
-        "dimension": 63.90449438202248,
-        "children": [
-          {
-            "id": "82c5423392916822",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
-      },
-      {
         "id": "0ff9a067ed4f16f4",
         "type": "tabs",
-        "dimension": 36.09550561797753,
         "children": [
           {
             "id": "9d819fa4a56500f4",
@@ -123,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Black Holes.md",
+                "file": "Scientist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Black Holes"
+              "title": "Backlinks for Scientist"
             }
           },
           {
@@ -142,12 +113,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Black Holes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Black Holes"
+              "title": "Outgoing links"
             }
           },
           {
@@ -193,8 +163,7 @@
               "title": "Outline"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,41 +180,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "780e5cc4be06019c",
+  "active": "82c5423392916822",
   "lastOpenFiles": [
-    "Frost.md",
-    "Dao/Engravement.md",
-    "Self.md",
-    "Destiny.md",
-    "Mutation.md",
-    "Earth.md",
-    "Metal.md",
-    "Wind.md",
-    "Fire.md",
-    "Water.md",
-    "Wisdom.md",
-    "Strength.md",
-    "Dao/Time.md",
-    "Dao/Space.md",
-    "Dao/Untitled",
-    "Characters/Ascendants/Wheel of Fortune.md",
-    "Dao",
-    "Regions",
-    "Characters/Ascendants/Daoist Carving the Path.md",
-    "Characters/Ascendants/Cold Steel Pride Authority.md",
-    "Characters/Ascendants/Boundless Dreamer Seeking Reality.md",
-    "Characters/Horizon Walkers/Director.md",
-    "Characters/Horizon Walkers/Doctor.md",
-    "Characters/Horizon Walkers/Impact.md",
-    "Characters/Horizon Walkers/Pride.md",
-    "Characters/Horizon Walkers/Solace.md",
-    "Characters/Horizon Walkers/Wanderer.md",
-    "Factions/Horizon Walkers.md",
-    "Characters/Ascendants",
-    "Factions/Beastkin.md",
-    "Characters/Horizon Walkers",
-    "Characters",
-    "Factions",
-    "Timeline"
+    "Untitled.md",
+    "Scientist.md"
   ]
 }
