@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Impact.md",
+                "file": "Wanderer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Impact"
+              "title": "Wanderer"
             }
           }
         ],
@@ -199,10 +199,13 @@
   },
   "active": "6b7a63cd630e061b",
   "lastOpenFiles": [
-    "Doctor.md",
-    "Impact.md",
-    "Director.md",
+    "Characters/Horizon Walkers/Director.md",
+    "Characters/Horizon Walkers/Impact.md",
     "Wanderer.md",
+    "Pokémon.md",
+    "obsidian test.md",
+    "Doctor.md",
+    "Director.md",
     "Era of Prosperity.md",
     "Era of Order.md",
     "Horizon Walkers.md"
