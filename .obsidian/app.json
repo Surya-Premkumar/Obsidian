@@ -1,3 +1,27 @@
 {
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "mobileToolbarCommands": [
+    "editor:undo",
+    "editor:redo",
+    "editor:insert-wikilink",
+    "editor:insert-tag",
+    "editor:set-heading-1",
+    "editor:set-heading-3",
+    "editor:toggle-bullet-list",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:attach-file",
+    "editor:insert-link",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "editor:set-heading",
+    "editor:insert-embed",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:configure-toolbar"
+  ]
 }

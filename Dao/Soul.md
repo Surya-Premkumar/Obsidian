@@ -4,4 +4,9 @@ tags:
 aliases:
   - Emotion
 ---
-The soul is the source of emotion while emotions are a
+The soul is the source of emotions. Idk other stuff also.
+
+
+# Users 
+
+- [[Director]]

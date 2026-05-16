@@ -30,4 +30,5 @@ All things are Dao but Dao is many different things, while that which comprises 
 - [[Blood]]
 - [[Ice]]
 - [[Soul]]
-- 
+- [[Fate and Destiny]]
+

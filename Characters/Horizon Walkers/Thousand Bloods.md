@@ -7,4 +7,4 @@ aliases:
 
 
 # Early Life
-Born in the [[Age of Darkness]] alongside [[Blood Guy]], when Blood Guy 
+Born in the [[Age of Darkness]] alongside [[Blood Father]], when Blood Guy 

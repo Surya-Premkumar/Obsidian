@@ -4,24 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d2b06cbcaa49485a",
+        "id": "c3e7b9fd768249e9",
         "type": "tabs",
         "children": [
           {
-            "id": "82c5423392916822",
+            "id": "6711a14158849143",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scientist.md",
+                "file": "Dao/Engravement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scientist"
+              "title": "Engravement"
+            }
+          },
+          {
+            "id": "780e5cc4be06019c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,8 +96,26 @@
     "type": "split",
     "children": [
       {
+        "id": "d8f710d96c3b27cf",
+        "type": "tabs",
+        "dimension": 63.90449438202248,
+        "children": [
+          {
+            "id": "82c5423392916822",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
         "id": "0ff9a067ed4f16f4",
         "type": "tabs",
+        "dimension": 36.09550561797753,
         "children": [
           {
             "id": "9d819fa4a56500f4",
@@ -94,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scientist.md",
+                "file": "Black Holes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Scientist"
+              "title": "Backlinks for Black Holes"
             }
           },
           {
@@ -113,11 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Black Holes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Black Holes"
             }
           },
           {
@@ -163,7 +193,8 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -180,9 +211,41 @@
       "bases:Create new base": false
     }
   },
-  "active": "82c5423392916822",
+  "active": "780e5cc4be06019c",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Scientist.md"
+    "Frost.md",
+    "Dao/Engravement.md",
+    "Self.md",
+    "Destiny.md",
+    "Mutation.md",
+    "Earth.md",
+    "Metal.md",
+    "Wind.md",
+    "Fire.md",
+    "Water.md",
+    "Wisdom.md",
+    "Strength.md",
+    "Dao/Time.md",
+    "Dao/Space.md",
+    "Dao/Untitled",
+    "Characters/Ascendants/Wheel of Fortune.md",
+    "Dao",
+    "Regions",
+    "Characters/Ascendants/Daoist Carving the Path.md",
+    "Characters/Ascendants/Cold Steel Pride Authority.md",
+    "Characters/Ascendants/Boundless Dreamer Seeking Reality.md",
+    "Characters/Horizon Walkers/Director.md",
+    "Characters/Horizon Walkers/Doctor.md",
+    "Characters/Horizon Walkers/Impact.md",
+    "Characters/Horizon Walkers/Pride.md",
+    "Characters/Horizon Walkers/Solace.md",
+    "Characters/Horizon Walkers/Wanderer.md",
+    "Factions/Horizon Walkers.md",
+    "Characters/Ascendants",
+    "Factions/Beastkin.md",
+    "Characters/Horizon Walkers",
+    "Characters",
+    "Factions",
+    "Timeline"
   ]
 }

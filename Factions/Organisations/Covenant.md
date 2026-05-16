@@ -2,4 +2,4 @@
 tags:
   - Faction
 ---
-Founded by [[Blood Guy]], currently led by the 
+Founded by [[Blood Father]], currently led by the 

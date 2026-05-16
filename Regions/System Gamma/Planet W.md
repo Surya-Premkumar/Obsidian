@@ -1,6 +1,9 @@
 ---
 tags:
   - Location
+aliases:
+  - Desolate South
+  - Northern Springs
 ---
 
 # Northern Springs
