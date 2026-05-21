@@ -6,7 +6,7 @@ node_size: "0"
 Exists to die. Weak and feeble. Gotta be somewhat important to the Walkers though so that him being sent makes sense
 # Early Life
 
-Chosen as one of the 6 who would lead the [[Horizon Walkers]] into the [[Realm of Horizon]], alongside  [[Doctor]], [[Pride]] [[Characters/Horizon Walkers/Impact]], [[Director]] and [[Wanderer]]. 
+Chosen as one of the 6 who would lead the [[Horizon Walkers]] into the [[Realm of Horizon]], alongside  [[Scientist]], [[Pride]] [[Characters/Horizon Walkers/Impact]], [[Psychologist]] and [[Wanderer]]. 
 
 # Time in the [[Realm of Horizon|Distant Horizon]]
 Dies upon Entry. His death makes the group realise that 

@@ -7,7 +7,7 @@ Specialises in Strength, sub principle is Space.
 Faction Head of the Combat Initiative of the [[Horizon Walkers]]
 
 # Early Life
-One of the 6 alongside [[Director]], [[Doctor]] and [[Wanderer]]
+One of the 6 alongside [[Psychologist]], [[Scientist]] and [[Wanderer]]
 
 # Time in the [[Realm of Horizon|Distant Horizon]]
 

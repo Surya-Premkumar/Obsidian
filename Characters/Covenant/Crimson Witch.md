@@ -1,6 +1,7 @@
 ---
 tags:
   - Character
+  - Covenant
 ---
 5th born of the [[Blood Father]]
 

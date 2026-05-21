@@ -9,4 +9,4 @@ The soul is the source of emotions. Idk other stuff also.
 
 # Users 
 
-- [[Director]]
+- [[Psychologist]]

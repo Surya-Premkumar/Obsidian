@@ -23,16 +23,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Covenant/Crimson Witch.md",
+                "file": "Dao/Engravement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Crimson Witch"
+              "title": "Engravement"
+            }
+          },
+          {
+            "id": "e36fb60c0f38cfef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Ascendants/Boundless Dreamer Seeking Reality.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Boundless Dreamer Seeking Reality"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,36 +193,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "8fe306a812887c75",
+  "active": "e36fb60c0f38cfef",
   "lastOpenFiles": [
-    "Dao/Blood.md",
-    "Characters/Covenant/Crimson Witch.md",
     "Characters/Ascendants/Blood Father.md",
-    "Dao/Soul.md",
+    "Characters/Covenant/Thousand Bloods.md",
+    "Red Star.md",
+    "Dao/Fate and Destiny.md",
+    "Characters/Ascendants/Boundless Dreamer Seeking Reality.md",
+    "Characters/Covenant/Crimson Witch.md",
+    "Characters/Horizon Walkers/Psychologist.md",
+    "Characters/Horizon Walkers/Scientist.md",
+    "Timeline/Current Era/Age of Stars.md",
+    "Timeline/Current Era/Modern Era.md",
+    "Timeline/Current Era/Age of Stars.md",
+    "Factions/Organisations/Beastkin.md",
+    "Dao/Principle.md",
+    "Timeline/Era of Prosperity/Era of Prosperity.md",
+    "Timeline/Era of Order.md",
+    "Dao/Darkness.md",
+    "Dao/Shadows.md",
+    "Dao/Engravement.md",
     "Timeline/Era of Prosperity/Age of Expanse.md",
+    "Dao/Blood.md",
+    "Dao/Soul.md",
     "Factions/Coalitions/Frost Walkers.md",
     "Regions/System Gamma/Planet W.md",
     "Factions/Coalitions/Coalition.md",
-    "Dao/Engravement.md",
-    "Dao/Fate and Destiny.md",
     "Characters/Covenant",
-    "Characters/Ascendants/Boundless Dreamer Seeking Reality.md",
-    "Dao/Principle.md",
     "Dao/Strength.md",
     "Characters/Ascendants/Ceaseless Calamities.md",
-    "Factions/Organisations/Organisation.md",
-    "Factions/Organisations/Beastkin.md",
-    "Factions/Organisations/Covenant.md",
     "Factions/Organisations",
-    "Characters/Horizon Walkers/Thousand Bloods.md",
-    "Characters/Ascendants/Silver Cov.md",
-    "Characters/Horizon Walkers/Doctor.md",
-    "Timeline/Era of Prosperity/Age of Glory.md",
-    "Timeline/Current Era/Age of Stars.md",
-    "Timeline/Current Era/Age of Darkness.md",
-    "Timeline/Current Era/Modern Era.md",
-    "Timeline/Era of Prosperity/Era of Prosperity.md",
-    "Dao/Ice.md",
     "Timeline/Current Era",
     "Timeline/Era of Prosperity",
     "Regions/System Gamma/Planet W",
