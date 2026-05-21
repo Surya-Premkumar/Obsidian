@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Ascendants/Boundless Dreamer Seeking Reality.md",
+                "file": "Transcendence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Boundless Dreamer Seeking Reality"
+              "title": "Transcendence"
             }
           }
         ],
@@ -195,11 +195,13 @@
   },
   "active": "e36fb60c0f38cfef",
   "lastOpenFiles": [
+    "dir.md",
+    "Transcendence.md",
+    "Characters/Ascendants/Boundless Dreamer Seeking Reality.md",
     "Characters/Ascendants/Blood Father.md",
     "Characters/Covenant/Thousand Bloods.md",
     "Red Star.md",
     "Dao/Fate and Destiny.md",
-    "Characters/Ascendants/Boundless Dreamer Seeking Reality.md",
     "Characters/Covenant/Crimson Witch.md",
     "Characters/Horizon Walkers/Psychologist.md",
     "Characters/Horizon Walkers/Scientist.md",
@@ -220,8 +222,6 @@
     "Regions/System Gamma/Planet W.md",
     "Factions/Coalitions/Coalition.md",
     "Characters/Covenant",
-    "Dao/Strength.md",
-    "Characters/Ascendants/Ceaseless Calamities.md",
     "Factions/Organisations",
     "Timeline/Current Era",
     "Timeline/Era of Prosperity",
