@@ -8,8 +8,8 @@ node_size: "2"
 
 # Sub Principles
 
-### Principle of Ice
+### Principle of [[Ice]]
 
 
-### Principle of Steel
+### Principle of [[Metal|Steel]]
 

@@ -25,14 +25,102 @@
             "id": "780e5cc4be06019c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Regions/Red Star.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Red Star"
+            }
+          },
+          {
+            "id": "1695c4c431e2a34b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dao/Principles/Ice.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ice"
+            }
+          },
+          {
+            "id": "44f5deb7ba34d1de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Ascendants/Cold Steel Pride Authority.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cold Steel Pride Authority"
+            }
+          },
+          {
+            "id": "9c82622e87ac21cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dao/Stages/Stage 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stage 2"
+            }
+          },
+          {
+            "id": "011f7c5ba374e5ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dao/Principle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Principle"
+            }
+          },
+          {
+            "id": "9ace8196e4b9474c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dao/Stages/Stage 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stage 1"
+            }
+          },
+          {
+            "id": "b4d1b4e1eef41e32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dao/Stages/Stage 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stage 2"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -96,26 +184,8 @@
     "type": "split",
     "children": [
       {
-        "id": "d8f710d96c3b27cf",
-        "type": "tabs",
-        "dimension": 63.90449438202248,
-        "children": [
-          {
-            "id": "82c5423392916822",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
-      },
-      {
         "id": "0ff9a067ed4f16f4",
         "type": "tabs",
-        "dimension": 36.09550561797753,
         "children": [
           {
             "id": "9d819fa4a56500f4",
@@ -180,17 +250,28 @@
             }
           },
           {
+            "id": "876fa3f594a44fb0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
             "id": "f6ccb3da138b478c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Dao/Principle.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Principle"
             }
           }
         ],
@@ -198,7 +279,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 742.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,10 +292,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "780e5cc4be06019c",
+  "active": "011f7c5ba374e5ea",
   "lastOpenFiles": [
+    "Dao/Principle.md",
+    "Dao/Principle.md",
+    "Dao/Stages/Stage 1.md",
+    "Dao/Stages/Stage 0.md",
+    "Dao/Stages/Stage 2.md",
+    "Timeline/Current Era/Age of Darkness.md",
+    "Dao/Principles/Darkness.md",
+    "Timeline/Era of Prosperity/Age of Expanse.md",
+    "Characters/Ascendants/Boundless Dreamer Seeking Reality.md",
+    "Characters/Ascendants/Blood Father.md",
+    "Dao/Stages",
+    "Timeline/Era of Prosperity/Era of Prosperity.md",
+    "Dao/Theres levels to this shit",
+    "Dao/Principles",
+    "Regions/System Gamma/Planet W.md",
+    "tr].md",
+    "Regions/Black Holes.md",
+    "Characters/Ascendants/Cold Steel Pride Authority.md",
+    "Dao/Principles/Metal.md",
+    "Dao/Principles/Ice.md",
+    "Regions/Red Star.md",
     "Frost.md",
-    "Dao/Engravement.md",
     "Self.md",
     "Destiny.md",
     "Mutation.md",
@@ -222,27 +323,9 @@
     "Metal.md",
     "Wind.md",
     "Fire.md",
-    "Water.md",
-    "Wisdom.md",
-    "Strength.md",
-    "Dao/Time.md",
-    "Dao/Space.md",
-    "Dao/Untitled",
-    "Characters/Ascendants/Wheel of Fortune.md",
     "Dao",
     "Regions",
-    "Characters/Ascendants/Daoist Carving the Path.md",
-    "Characters/Ascendants/Cold Steel Pride Authority.md",
-    "Characters/Ascendants/Boundless Dreamer Seeking Reality.md",
-    "Characters/Horizon Walkers/Director.md",
-    "Characters/Horizon Walkers/Doctor.md",
-    "Characters/Horizon Walkers/Impact.md",
-    "Characters/Horizon Walkers/Pride.md",
-    "Characters/Horizon Walkers/Solace.md",
-    "Characters/Horizon Walkers/Wanderer.md",
-    "Factions/Horizon Walkers.md",
     "Characters/Ascendants",
-    "Factions/Beastkin.md",
     "Characters/Horizon Walkers",
     "Characters",
     "Factions",

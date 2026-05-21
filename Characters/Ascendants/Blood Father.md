@@ -6,7 +6,7 @@ aliases:
 ---
 Progenitor of [[Blood]] Path. Likely the greatest talent to ever exist in the world. Expanded Blood to incorporate the strengths of every other path . 
 
-# Transcendence Candidacy 
+# [[Stage 2|Transcendence]] Candidacy 
 
 ### Immortality 
 Can be reborn endlessly from his blood sea on [[Red Star]]. This is one of the aspects of transcendence he has attainted by removing his human death aspect

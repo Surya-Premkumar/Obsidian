@@ -1,6 +1,6 @@
 ---
 tags:
-  - ch
+  - Character
 node_size: "2"
 ---
 
@@ -15,7 +15,7 @@ Turning Dreams & Imagination into Reality
 # Distant Realms Formation 
 Created a formation alongside [[Time Guy]] which allows people to visit moments of the past in their dream using the power of a black hole. Gave this to the nomadic tribes who then centered their groups around using these formations. 
 
-# [[Transcendence]] Candidacy
+# [[Stage 2|Transcendence]] Candidacy
 
 ### Immortality
 Turned his entire body unreal (he specialises in turns dreams real but he did the reverse) which means he no longer has the death aspect of a human.

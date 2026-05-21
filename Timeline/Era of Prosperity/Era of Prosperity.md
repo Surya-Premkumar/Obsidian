@@ -9,4 +9,5 @@ Humanity had no need for Ascension since principals were everywhere and incredib
 
 Ages
 	- [[Age of Glory]]
+	- [[Age of Expanse]]
 	- 
