@@ -2,6 +2,7 @@
 tags:
   - Era
 aliases:
+node_size: "2"
 ---
 Ages
  - [[Age of Darkness]]

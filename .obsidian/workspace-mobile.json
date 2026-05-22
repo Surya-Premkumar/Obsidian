@@ -11,24 +11,14 @@
             "id": "77ee500837e7e7a1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "8fe306a812887c75",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Dao/Engravement.md",
+                "file": "Characters/Main Character.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Engravement"
+              "title": "Main Character"
             }
           },
           {
@@ -37,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Ascendants/Boundless Dreamer Seeking Reality.md",
+                "file": "Dao/Person.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Boundless Dreamer Seeking Reality"
+              "title": "Person"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,36 +182,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "e36fb60c0f38cfef",
+  "active": "77ee500837e7e7a1",
   "lastOpenFiles": [
+    "Characters/Main Character.md",
+    "Factions/Organisations/Stability Society.md",
+    "Factions/Organisations/Horizon Walkers.md",
+    "Factions/Organisations/Organisation.md",
+    "Characters/Ascendants/Ceaseless Calamities.md",
+    "Characters/Ascendants/Wheel of Fortune.md",
+    "Regions/Red Star.md",
+    "Dao/Aspects.md",
+    "Timeline/Current Era/Age of Stars.md",
+    "Characters/Ascendants/Painter.md",
+    "Dao/Person.md",
+    "Factions/Random Clan idk.md",
+    "Timeline/Current Era/Modern Era.md",
+    "Regions/Black Holes.md",
+    "Characters/Ascendants/Boundless Dreamer Seeking Reality.md",
+    "Characters/Ascendants/Daoist Carving the Path.md",
+    "Characters/Ascendants/Cold Steel Pride Authority.md",
+    "Factions/Organisations/Covenant.md",
+    "Aspectual Formation.md",
     "Dao/Stages/Stage 2.md",
     "Dao/Stages/Stage 1.md",
     "Dao/Stages/Stage 0.md",
-    "Characters/Ascendants/Boundless Dreamer Seeking Reality.md",
     "Transcendence.md",
-    "Regions/Red Star.md",
     "Dao/Stages",
     "Dao/Principles/Wisdom.md",
     "Dao/Principles/Wind.md",
     "Dao/Principles/Water.md",
-    "Dao/Principles/Time.md",
-    "Dao/Principles/Strength.md",
-    "Dao/Principles/Space.md",
-    "Dao/Principles/Soul.md",
-    "Dao/Principles/Self.md",
-    "Dao/Principles/Mutation.md",
-    "Dao/Principles/Metal.md",
-    "Dao/Principles/Ice.md",
-    "Dao/Principles/Fire.md",
-    "Dao/Principles/Fate and Destiny.md",
-    "Dao/Principles/Earth.md",
-    "Dao/Principles/Darkness.md",
-    "Dao/Principles/Blood.md",
     "Dao/Principles",
-    "dir.md",
-    "Characters/Ascendants/Blood Father.md",
-    "Characters/Covenant/Thousand Bloods.md",
-    "Red Star.md",
     "Characters/Covenant",
     "Factions/Organisations",
     "Timeline/Current Era",

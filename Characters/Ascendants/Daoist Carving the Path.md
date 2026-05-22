@@ -1,7 +1,7 @@
 ---
 tags:
   - Character
-node_size: "2"
+node_size: "1"
 ---
 The world is like an overgrown field, it is hard to see ahead or to carve a path, however, one can walk in the steps of their forefathers and follow the paths they've carved out with their lives. However, the paths of others can only take one so far. When it time to surpass the achievements of others and march into the unknown for the future generations as their ancestors did for them, one will regret the path they have taken, for although their life has not been without hardship, their attainment can never compare to a soul that has carved their own path.
 

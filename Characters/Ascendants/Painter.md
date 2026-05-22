@@ -1,5 +1,5 @@
 ---
-node_size: "1"
 tags:
   - Character
+node_size: "1"
 ---

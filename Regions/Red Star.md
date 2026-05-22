@@ -1,6 +1,7 @@
 ---
 tags:
   - Location
+  - Entity
 aliases:
   - Blood Planet
 ---
