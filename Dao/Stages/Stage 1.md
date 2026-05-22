@@ -11,7 +11,10 @@ Purify to [[Stage 2]]
 - [[Boundless Dreamer Seeking Reality]]
 - [[Ceaseless Calamities]]
 - [[Wheel of Fortune]]
-- 
+- [[Cold Steel Pride Authority]]
+- [[Daoist Carving the Path]]
+- [[Painter]]
+
 
 
 # Soul core
