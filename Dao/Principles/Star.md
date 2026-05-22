@@ -1,7 +1,5 @@
 ---
 tags:
   - Dao
-aliases:
-  - Dark
 ---
-
+Stars, idk

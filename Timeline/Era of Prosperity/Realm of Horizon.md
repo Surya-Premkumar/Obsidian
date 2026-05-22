@@ -7,4 +7,4 @@ A Mental replication of the [[Era of Prosperity]] used in a mission led by the [
 
 
 # Mission Start
- 6 :   [[Solace]], [[Pride]], [[Scientist]] [[Characters/Horizon Walkers/Impact]], [[Psychologist]] and [[Wanderer]]. 
+ 6 :   [[Solace]], [[Pride]], [[Scientist]], [[Impact]], [[Psychologist]] and [[Management]]. 

@@ -4,123 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "c3e7b9fd768249e9",
+        "id": "be7aab17e8fae353",
         "type": "tabs",
         "children": [
           {
-            "id": "6711a14158849143",
+            "id": "9b9ae7f02cae67c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dao/Engravement.md",
+                "file": "Dao/Person.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Engravement"
+              "title": "Person"
             }
           },
           {
-            "id": "780e5cc4be06019c",
+            "id": "fe852aa9857810a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regions/Red Star.md",
+                "file": "Timeline/Era of Prosperity/Realm of Horizon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Red Star"
+              "title": "Realm of Horizon"
             }
           },
           {
-            "id": "1695c4c431e2a34b",
+            "id": "9d21463d219f5a16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dao/Principles/Ice.md",
+                "file": "Factions/Organisations/Organisation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ice"
+              "title": "Organisation"
             }
           },
           {
-            "id": "44f5deb7ba34d1de",
+            "id": "61ea80ad59c4d7ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Ascendants/Cold Steel Pride Authority.md",
+                "file": "Characters/Horizon Walkers/Scientist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cold Steel Pride Authority"
+              "title": "Scientist"
             }
           },
           {
-            "id": "9c82622e87ac21cb",
+            "id": "e0c81ef84f703841",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dao/Stages/Stage 2.md",
+                "file": "Factions/Organisations/Stability Faction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stage 2"
-            }
-          },
-          {
-            "id": "011f7c5ba374e5ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dao/Principle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Principle"
-            }
-          },
-          {
-            "id": "9ace8196e4b9474c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dao/Stages/Stage 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stage 1"
-            }
-          },
-          {
-            "id": "b4d1b4e1eef41e32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dao/Stages/Stage 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stage 2"
+              "title": "Stability Faction"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -193,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Black Holes.md",
+                "file": "Characters/Horizon Walkers/Scientist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Black Holes"
+              "title": "Backlinks for Scientist"
             }
           },
           {
@@ -212,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Black Holes.md",
+                "file": "Characters/Horizon Walkers/Scientist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Black Holes"
+              "title": "Outgoing links from Scientist"
             }
           },
           {
@@ -265,13 +223,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dao/Principle.md",
+                "file": "Characters/Horizon Walkers/Scientist.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Principle"
+              "title": "Outline of Scientist"
             }
           }
         ],
@@ -292,37 +250,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "011f7c5ba374e5ea",
+  "active": "61ea80ad59c4d7ec",
   "lastOpenFiles": [
-    "Dao/Principle.md",
-    "Dao/Principle.md",
-    "Dao/Stages/Stage 1.md",
-    "Dao/Stages/Stage 0.md",
-    "Dao/Stages/Stage 2.md",
-    "Timeline/Current Era/Age of Darkness.md",
+    "Factions/Organisations/Clans of Evolution.md",
+    "Factions/Organisations/Organisation.md",
+    "Factions/Organisations/Stability Faction.md",
+    "Characters/Horizon Walkers/Scientist.md",
+    "Factions/Organisations/Horizon Walkers.md",
+    "Regions/System Gamma/Planet W.md",
+    "Factions/Coalitions/Frost Walkers (Sect).md",
+    "Dao/Principles/Ice.md",
+    "Characters/Horizon Walkers/Management.md",
+    "Timeline/Era of Prosperity/Realm of Horizon.md",
+    "Dao/Person.md",
+    "Characters/Anti Main Character.md",
     "Dao/Principles/Darkness.md",
+    "Dao/Aspects.md",
+    "Dao/Stages/Stage 0.md",
+    "Characters/Main Character.md",
+    "Dao/Principles/Star.md",
+    "Dao/Principles/Light.md",
+    "Dao/Principle.md",
+    "Characters/Horizon Walkers/Impact.md",
+    "Dao/Stages/Stage 2.md",
+    "Dao/Stages/Stage 1.md",
+    "Characters/Ascendants/Cold Steel Pride Authority.md",
+    "Regions/Red Star.md",
+    "Timeline/Current Era/Age of Darkness.md",
     "Timeline/Era of Prosperity/Age of Expanse.md",
-    "Characters/Ascendants/Boundless Dreamer Seeking Reality.md",
-    "Characters/Ascendants/Blood Father.md",
     "Dao/Stages",
-    "Timeline/Era of Prosperity/Era of Prosperity.md",
     "Dao/Theres levels to this shit",
     "Dao/Principles",
-    "Regions/System Gamma/Planet W.md",
-    "tr].md",
-    "Regions/Black Holes.md",
-    "Characters/Ascendants/Cold Steel Pride Authority.md",
-    "Dao/Principles/Metal.md",
-    "Dao/Principles/Ice.md",
-    "Regions/Red Star.md",
-    "Frost.md",
-    "Self.md",
-    "Destiny.md",
-    "Mutation.md",
-    "Earth.md",
-    "Metal.md",
-    "Wind.md",
-    "Fire.md",
     "Dao",
     "Regions",
     "Characters/Ascendants",

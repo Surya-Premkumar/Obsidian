@@ -7,5 +7,5 @@ A group of people who share common interests, typically all of the same Dao so r
 
 # All Coalitions 
 
- - [[Frost Walkers]]
+ - [[Frost Walkers (Sect)]]
  - 

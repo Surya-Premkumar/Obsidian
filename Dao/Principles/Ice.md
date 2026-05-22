@@ -2,5 +2,8 @@
 tags:
   - Dao
 ---
+Big in the [[Planet W|Desolate South]]
 
-[[Cold Steel Pride Authority]]
+
+# Users
+- [[Cold Steel Pride Authority]]

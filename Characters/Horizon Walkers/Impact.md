@@ -7,7 +7,7 @@ Specialises in Strength, sub principle is Space.
 Faction Head of the Combat Initiative of the [[Horizon Walkers]]
 
 # Early Life
-One of the 6 alongside [[Psychologist]], [[Scientist]] and [[Wanderer]]
+One of the 6 alongside [[Psychologist]], [[Scientist]] and [[Management]]
 
 # Time in the [[Realm of Horizon|Distant Horizon]]
 
@@ -22,11 +22,11 @@ Leads the Combat Initiative Program of the Horizon Walkers
 
 # Principles
 
-## Strength
+## [[Strength]]
 #### Muscle Quality Enhancement
 Massively increases the quality of his own muscles beyond human standards
 
-## Space
+## [[Space]]
 #### Muscle Quantity Enhancement
 Increases the amount of muscle he can actually have on his body to fit more muscle on him
 
