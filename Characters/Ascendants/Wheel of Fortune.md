@@ -4,7 +4,7 @@ tags:
 node_size: "1"
 aliases:
 ---
-
+Manages their own fate to be balanced
 
 
 # Ceaseless Wheel

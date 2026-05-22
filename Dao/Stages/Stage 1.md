@@ -6,8 +6,13 @@ Formed from [[Stage 0]]
 
 Purify to [[Stage 2]]
 
+# List
+- [[Blood Father]]
+- [[Boundless Dreamer Seeking Reality]]
+- [[Ceaseless Calamities]]
+- [[Wheel of Fortune]]
+- 
 
-Mind Body Unification 
 
 # Soul core
 
@@ -20,6 +25,6 @@ Requirements:
 - Create a net of Aspects that encompass the entire soul to create a stable soul.
 - Expand the 4 parts of a principle. 
 
-Combining both of this completely should start a Unification of the mind, body and soul, to be comprised of their own principle. 
+Combining both of this completely should start a Unification of the mind, body and soul, to be comprised of a persons principle. 
 
 Part of this process can be done later if the process of Unification is jumpstarted by the cultivator. 
