@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Organisations/Organisation.md",
+                "file": "Dao/Stages/Stage 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Organisation"
+              "title": "Stage 2"
             }
           },
           {
@@ -184,14 +184,20 @@
   },
   "active": "77ee500837e7e7a1",
   "lastOpenFiles": [
-    "Characters/Main Character.md",
-    "Dao/Principle.md",
+    "Dao/Stages/Stage 1.md",
     "Dao/Person.md",
+    "Dao/Stages/Stage 2.md",
+    "Characters/Ascendants/Ceaseless Calamities.md",
+    "Characters/Ascendants/Blood Father.md",
+    "Characters/Stability Faction/Untitled.md",
+    "Characters/Main Character.md",
+    "Characters/Stability Faction",
+    "Characters/House of Evolution",
+    "Factions/Organisations/Organisation.md",
+    "Dao/Principle.md",
     "Dao/Aspects.md",
     "Factions/Organisations/Horizon Walkers.md",
     "Factions/Organisations/Stability Society.md",
-    "Factions/Organisations/Organisation.md",
-    "Characters/Ascendants/Ceaseless Calamities.md",
     "Characters/Ascendants/Wheel of Fortune.md",
     "Regions/Red Star.md",
     "Timeline/Current Era/Age of Stars.md",
@@ -204,21 +210,15 @@
     "Characters/Ascendants/Cold Steel Pride Authority.md",
     "Factions/Organisations/Covenant.md",
     "Aspectual Formation.md",
-    "Dao/Stages/Stage 2.md",
-    "Dao/Stages/Stage 1.md",
     "Dao/Stages/Stage 0.md",
     "Transcendence.md",
     "Dao/Stages",
-    "Dao/Principles/Wisdom.md",
-    "Dao/Principles/Wind.md",
     "Dao/Principles",
     "Characters/Covenant",
     "Factions/Organisations",
     "Timeline/Current Era",
     "Timeline/Era of Prosperity",
     "Regions/System Gamma/Planet W",
-    "Regions/System Gamma",
-    "Factions/Coalitions/Untitled",
-    "Factions/Coalitions"
+    "Regions/System Gamma"
   ]
 }

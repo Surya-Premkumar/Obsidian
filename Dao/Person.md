@@ -3,16 +3,16 @@ tags:
   - Dao
 ---
 
-# Self
+# Principle
 
-A person's self is split into 4 parts
+A person's Principle is split into 4 parts
  - Talent for Understanding : The time it takes to comprehend existing flows
 
  - Ingenuity: The time it takes to create new flows
 
  - Knowledge: Knowledge they've learnt which allows them to skip the beginning period of time for both understanding & creating flows 
 
- - Insight: Success rate of the steps of creating or understanding a flow
+ - Insight: Success rate of the steps of creating/ understanding a flow
 
 # Soul
 
@@ -20,8 +20,7 @@ The soul is made of countless uncontrolled flows (like a river). When [[Stage 0|
 
 ### Aspects
 If multiple complete flows revolve around a point, that point becomes semi permanent in the non permanent, uncontrollable soul.
-Aspects can also be connected to one another since they are still flows. Multiple aspects that all flow into eachother are an Aspectual Formation. The aspects all have to be of the same principle 
-
+Aspects can also be connected to one another since they are still flows. Multiple aspects that all flow into eachother are an Aspectual Formation. The aspects all have to be of the same structure of principles. Idk what that means yet (refer to Black Soul Flame). 
 
 ### Aspectual Formation 
 
