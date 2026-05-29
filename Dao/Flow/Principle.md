@@ -3,6 +3,7 @@ tags:
   - Dao
 node_size: "2"
 aliases:
+  - Principles
 ---
 Principles are the building blocks of the universe. People's understanding of them allow them...
 

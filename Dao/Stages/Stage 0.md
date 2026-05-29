@@ -2,7 +2,7 @@
 tags:
   - Dao
 aliases:
-  - People
+  - Mortal
 ---
 
 Ascends to [[Stage 1]]

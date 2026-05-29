@@ -1,6 +1,8 @@
 ---
 tags:
   - Dao
+aliases:
+  - People
 ---
 
 # Principle

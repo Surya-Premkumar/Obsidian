@@ -17,7 +17,7 @@ node_size: "2"
 
 Meets with many different factions and becomes known as a neutral 3rd part to many conflicts.
 
-Meets with [[Crimson Witch]], the head of the [[Covenant]]'s 3rd Faction
+Meets with [[Crimson Witch]], the head of the [[Covenant]]'s 3rd Faction. This is where he becomes more offensively leaning. Its also where we see [[Blood Father]]'s evaluation of him as quite talented, "Not as much as [[Annihilations]], but far more stable"
 
 [[Stability Society]]'s Head of state, 
 
