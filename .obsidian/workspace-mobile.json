@@ -13,25 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dao/Principles/Fire.md",
+                "file": "Stuff/Resources/Darkness/Dark Light.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fire"
+              "title": "Dark Light"
             }
           },
           {
             "id": "e36fb60c0f38cfef",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Organisations/Horizon Walkers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Horizon Walkers"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,43 +183,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "77ee500837e7e7a1",
+  "active": "e36fb60c0f38cfef",
   "lastOpenFiles": [
-    "Dao/Flow/Principle.md",
-    "Dao/Flow/Flow.md",
-    "Dao/Principles/Fire.md",
-    "Dao/Flow/Resources.md",
+    "Characters/Main Character.md",
+    "Timeline/Era of Order.md",
     "Dao/Person.md",
+    "Dao/Flow/Flow.md",
+    "Dao/Flow/Principle.md",
+    "Dao/Aspects.md",
+    "Dao/Stages/Stage 1.md",
+    "Dao/Stages/Stage 2.md",
     "Dao/Stages/Stage 0.md",
+    "Stuff/Creatures/Dark Beast.md",
+    "Stuff/Resources/Darkness",
+    "Stuff/Resources/Fires",
+    "Stuff/Resources",
+    "Stuff",
+    "Stuff/Creatures",
+    "Characters/Anti Main Character.md",
+    "Factions/Organisations/Covenant.md",
+    "Stuff/Resources/Darkness/Dark Light.md",
+    "Dao/Principles/Evolution.md",
+    "Regions/Black Sun.md",
+    "Factions/Organisations/Clans of Evolution.md",
+    "Principles.md",
+    "Regions/Havens/Dark Haven/Dark Haven.md",
+    "Stuff/Resources/Fires/Black Fire.md",
+    "Regions/Red Star.md",
+    "Regions/Havens",
+    "Regions/Havens/Dark Haven",
+    "Regions/Havens/Haven.md",
+    "Regions/Planet X.md",
+    "Regions/Black Hole.md",
+    "Dao/Principles/Fire.md",
+    "Stuff/Resources/Resources.md",
     "Characters/Solo/Ink Dweller.md",
     "Dao/Flow",
-    "Characters/Solo/Annihilations.md",
     "Characters/Solo",
-    "Characters/Stability Faction/Refugees",
-    "Characters/Main Character.md",
-    "Characters/Ascendants/Blood Father.md",
-    "Factions/Organisations/Organisation.md",
-    "Dao/Stages/Stage 1.md",
-    "Characters/Ascendants/Boundless Dreamer Seeking Reality.md",
-    "Characters/Ascendants/Silver Cov.md",
-    "Characters/Ascendants/Cold Steel Pride Authority.md",
-    "Characters/Ascendants/Wheel of Fortune.md",
-    "Characters/Ascendants/Ceaseless Calamities.md",
-    "Dao/Stages/Stage 2.md",
-    "Characters/Stability Faction/Untitled.md",
-    "Characters/Stability Faction",
-    "Characters/House of Evolution",
-    "Dao/Aspects.md",
-    "Factions/Organisations/Horizon Walkers.md",
-    "Factions/Organisations/Stability Society.md",
-    "Regions/Red Star.md",
-    "Timeline/Current Era/Age of Stars.md",
-    "Characters/Ascendants/Painter.md",
-    "Factions/Random Clan idk.md",
-    "Dao/Stages",
-    "Dao/Principles",
-    "Characters/Covenant",
-    "Factions/Organisations",
-    "Timeline/Current Era"
+    "Characters/Stability Faction/Refugees"
   ]
 }

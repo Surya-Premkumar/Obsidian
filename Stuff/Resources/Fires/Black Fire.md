@@ -1,0 +1,1 @@
+Combination of [[Fire]] & [[Soul]] [[Principle|Principles]]. Erodes the soul on contact. 

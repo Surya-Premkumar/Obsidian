@@ -8,13 +8,21 @@ Originating as a group of Treasure/ History Seeking Nomads who could send their 
 
 They changed the name to Horizon Walkers
 
+
+
+
 # The Nomads
-A group of wanderers who were capable of using the time bending capabilities of [[Black Holes]] to witness (and later experiences) past events. They used this to gather information about the [[Era of Order]], using the complete [[Principle|engravements]] they found to advance their power stably 
+~~A group of wanderers who were capable of using the time bending capabilities of [[Black Hole]] to witness (and later experiences) past events. They used this to gather information about the [[Era of Order]], using the complete [[Principle|engravements]] they found to advance their power stably~~ 
 
-# Research Division 
-Header by the [[Scientist]], they effectively exist to study the black hole they surround %% and attempt to actually break through time itself to travel back so the rest of them can get their lives back from the Horizon%%
+Nomads travel between different factions and settlements and traded resources between them, allowing for a level of commerce to exist. 
+
+Since nomadic travelling is dangerous, they typically do not form families or couples, and therefore few children are born. To supplement their population, they take in people from the different places they travel too, especially people without attachments, like orphans/ runaways/ abandoned kids or widows/ widowers. 
+
+# Conflict with [[Stability Society]]
 
 
+### Research Division 
+Header by the [[Scientist]], they effectively exist to study the black hole they surround.
 
 
 
