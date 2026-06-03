@@ -13,22 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Beyonders/Time Guy.md",
+                "file": "Ascending to Heavens in a Single Step.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Time Guy"
+              "title": "Ascending to Heavens in a Single Step"
             }
           },
           {
@@ -37,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dao/Flow/Flow.md",
+                "file": "Characters/Ascendants/Cold Steel Pride Authority.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flow"
+              "title": "Cold Steel Pride Authority"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,43 +182,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "e36fb60c0f38cfef",
+  "active": "77ee500837e7e7a1",
   "lastOpenFiles": [
+    "Characters/Solo/Main Character.md",
+    "Ascending to Heavens in a Single Step.md",
+    "Dao/Principles/Light.md",
     "Characters/Solo/Dark Heaven Emperor.md",
-    "Regions/Black Star.md",
+    "Factions/Organisations/Horizon Walkers.md",
+    "Factions/Organisations/Covenant.md",
+    "Factions/Organisations/Clans of Evolution.md",
+    "Characters/Ascendants/Transcension Candidates/Bloods.md",
+    "Characters/Ascendants/Painter.md",
+    "Dao/Stages/Stage 0.md",
     "Dao/Stages/Stage 1.md",
-    "Characters/Ascendants/Bloods.md",
+    "Dao/Stages/Stage 2.md",
+    "Dao/Principles/Mutation.md",
     "Characters/Beyonders/Time Guy.md",
+    "Characters/Ascendants/Cold Steel Pride Authority.md",
+    "Characters/Ascendants/Transcension Candidates/Boundless Dreamer Seeking Reality.md",
+    "Characters/Solo/Annihilations.md",
+    "Characters/Solo/Scriptures.md",
+    "Engraving.md",
+    "Dao/Person.md",
+    "Characters/Solo/Untitled/Untitled",
+    "Characters/Solo/Untitled",
+    "Characters/Ascendants/Daoist Carving the Path.md",
+    "Characters/Ascendants/Transcension Candidates",
+    "Dao/Flow/Flow.md",
+    "Regions/Black Star.md",
     "Characters/Beyonders/Boundless.md",
     "Characters/Beyonders/Nameless.md",
     "Factions/Organisations/Beyond.md",
-    "Characters/Horizon Walkers/Scouted/Sound of the Wind.md",
-    "Dao/Principles/Sound.md",
     "Dao/Principles/Untitled",
     "Characters/Horizon Walkers/Scouted",
     "Characters/Horizon Walkers/Historic",
     "Characters/Horizon Walkers/Leadership",
-    "Characters/Ascendants/Cold Steel Pride Authority.md",
     "Characters/Beyonders",
-    "Characters/Stability Faction/Untitled.md",
-    "Stuff/Resources/Darkness/Dark Light.md",
-    "Factions/Organisations/Covenant.md",
-    "Characters/Covenant/Asura.md",
-    "Characters/Covenant/Thousands.md",
-    "Dao/Principles/Mutation.md",
-    "Factions/Organisations/Horizon Walkers.md",
-    "Characters/Solo/Main Character.md",
-    "Timeline/Era of Order.md",
-    "Dao/Person.md",
-    "Dao/Flow/Flow.md",
-    "Dao/Flow/Principle.md",
-    "Dao/Aspects.md",
-    "Dao/Stages/Stage 2.md",
-    "Dao/Stages/Stage 0.md",
     "Stuff/Resources/Darkness",
-    "Stuff/Resources/Fires",
-    "Stuff/Resources",
-    "Stuff",
-    "Stuff/Creatures"
+    "Stuff/Resources/Fires"
   ]
 }

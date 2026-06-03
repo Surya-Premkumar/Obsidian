@@ -13,6 +13,14 @@ He was a normal guy, but around a year before the fall of the [[Stability Societ
 
 Destruction idk
 
+# Aspectual Formation 
+
+### Offence 
+
+Melee: Destructive Aura
+
+Ranged: Annihilation that spreads towards the target, not fast, but wide spread
+
 
 # [[Fate and Destiny]]
 

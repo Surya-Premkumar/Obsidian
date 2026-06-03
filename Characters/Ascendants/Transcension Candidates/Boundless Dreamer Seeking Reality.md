@@ -2,6 +2,8 @@
 tags:
   - Character
 node_size: "1"
+aliases:
+  - Unbound by Reality
 ---
 
 Principle: Law

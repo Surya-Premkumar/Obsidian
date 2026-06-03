@@ -1,5 +1,5 @@
 ---
-node_size: "2"
+node_size: "1"
 ---
 #Faction 
 

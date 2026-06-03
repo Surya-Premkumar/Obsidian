@@ -2,16 +2,26 @@
 tags:
   - Character
 node_size: "2"
+aliases:
+  - Light of Heaven
+  - He without Shadow
 ---
 
 
 
-# Principle
 
-### [[Light]]
+# [[Light]]
 
 
-[[Star]]
+# Aspectual Formation 
+
+
+# [[Ascending to Heavens in a Single Step]]
+
+
+
+
+
 
 # Volume 1
 

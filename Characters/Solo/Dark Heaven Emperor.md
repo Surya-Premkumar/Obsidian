@@ -11,3 +11,24 @@ Adolesced in the [[Planet X| Shadow]], survived by learning to permanently maint
 # [[Mutation]]
 
 He turns into a Human [[Dark Beast]] 
+
+
+# Aspectual Formation 
+
+### Offence 
+Transforms into Dark beast
+
+### Defence
+Dark beast
+
+### Healing
+Dark beast
+
+### Reconnaissance 
+Dark beast
+
+### Movement 
+Dark beast
+
+### Reconnaissance 
+Dark beast

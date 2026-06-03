@@ -3,6 +3,7 @@ tags:
   - Dao
 aliases:
   - Transcendence
+node_size: "2"
 ---
 Unified from [[Stage 1]]
 

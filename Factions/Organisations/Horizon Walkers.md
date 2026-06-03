@@ -1,5 +1,7 @@
 ---
-node_size: "2"
+node_size: "1"
+tags:
+  - Faction
 ---
 #Faction #Horizon_Walker
 
