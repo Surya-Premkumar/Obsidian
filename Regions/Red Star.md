@@ -5,6 +5,6 @@ tags:
 aliases:
   - Blood Planet
 ---
-Current Residence of [[Blood Father]] & [[Thousand Bloods]]
+Current Residence of [[Bloods]] & [[Thousands]]
 
 # Massacre of the [[Random Clan idk]]

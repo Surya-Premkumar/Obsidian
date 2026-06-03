@@ -2,5 +2,7 @@
 tags:
   - Faction
 node_size: "2"
+aliases:
+  - Asura Faction
 ---
-Founded by [[Blood Father]], currently led by the 
+Founded by [[Bloods]].

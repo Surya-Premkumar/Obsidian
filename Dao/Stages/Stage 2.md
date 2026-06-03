@@ -12,6 +12,6 @@ Unified from [[Stage 1]]
 
 Candidates
 - [[Boundless Dreamer Seeking Reality]]
-- [[Blood Father]]
+- [[Bloods]]
 - [[Psychologist]] (Volume 2)
 

@@ -13,4 +13,6 @@ Adolesced in the [[Planet X| Shadow]], survived by learning to permanently maint
 ### [[Darkness]]
 
 
-### [[Evolution]]
+### [[Mutation]]
+
+He turns into a corrup

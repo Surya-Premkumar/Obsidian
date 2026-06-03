@@ -17,11 +17,12 @@ Expanding the path of blood to encompass all things and going deeper into his un
 
 # Early life
 
+Wiped out [[Random Clan idk]] using with his first unique flow [Stain]
 
 # Principles 
 
-
+### [[Blood]]
 
 
 # Connections
-Removed lineage from [[Silver Cov]]
+Removed lineage from 

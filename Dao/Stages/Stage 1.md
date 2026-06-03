@@ -7,7 +7,7 @@ Formed from [[Stage 0]]
 Purify to [[Stage 2]]
 
 # List
-- [[Blood Father]]
+- [[Bloods]]
 - [[Boundless Dreamer Seeking Reality]]
 - [[Ceaseless Calamities]]
 - [[Wheel of Fortune]]
