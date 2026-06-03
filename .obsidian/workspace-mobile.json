@@ -11,10 +11,24 @@
             "id": "77ee500837e7e7a1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Beyonders/Time Guy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Time Guy"
             }
           },
           {
@@ -23,15 +37,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Ascendants/Bloods.md",
+                "file": "Dao/Flow/Flow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bloods"
+              "title": "Flow"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,43 +193,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "77ee500837e7e7a1",
+  "active": "e36fb60c0f38cfef",
   "lastOpenFiles": [
+    "Characters/Solo/Dark Heaven Emperor.md",
+    "Regions/Black Star.md",
+    "Dao/Stages/Stage 1.md",
+    "Characters/Ascendants/Bloods.md",
+    "Characters/Beyonders/Time Guy.md",
+    "Characters/Beyonders/Boundless.md",
+    "Characters/Beyonders/Nameless.md",
+    "Factions/Organisations/Beyond.md",
+    "Characters/Horizon Walkers/Scouted/Sound of the Wind.md",
+    "Dao/Principles/Sound.md",
+    "Dao/Principles/Untitled",
+    "Characters/Horizon Walkers/Scouted",
+    "Characters/Horizon Walkers/Historic",
+    "Characters/Horizon Walkers/Leadership",
+    "Characters/Ascendants/Cold Steel Pride Authority.md",
+    "Characters/Beyonders",
     "Characters/Stability Faction/Untitled.md",
     "Stuff/Resources/Darkness/Dark Light.md",
-    "Characters/Ascendants/Bloods.md",
     "Factions/Organisations/Covenant.md",
     "Characters/Covenant/Asura.md",
     "Characters/Covenant/Thousands.md",
     "Dao/Principles/Mutation.md",
-    "Characters/Anti Main Character.md",
     "Factions/Organisations/Horizon Walkers.md",
-    "Characters/Main Character.md",
+    "Characters/Solo/Main Character.md",
     "Timeline/Era of Order.md",
     "Dao/Person.md",
     "Dao/Flow/Flow.md",
     "Dao/Flow/Principle.md",
     "Dao/Aspects.md",
-    "Dao/Stages/Stage 1.md",
     "Dao/Stages/Stage 2.md",
     "Dao/Stages/Stage 0.md",
-    "Stuff/Creatures/Dark Beast.md",
     "Stuff/Resources/Darkness",
     "Stuff/Resources/Fires",
     "Stuff/Resources",
     "Stuff",
-    "Stuff/Creatures",
-    "Regions/Black Sun.md",
-    "Factions/Organisations/Clans of Evolution.md",
-    "Principles.md",
-    "Regions/Havens/Dark Haven/Dark Haven.md",
-    "Stuff/Resources/Fires/Black Fire.md",
-    "Regions/Red Star.md",
-    "Regions/Havens",
-    "Regions/Havens/Dark Haven",
-    "Regions/Havens/Haven.md",
-    "Dao/Flow",
-    "Characters/Solo",
-    "Characters/Stability Faction/Refugees"
+    "Stuff/Creatures"
   ]
 }

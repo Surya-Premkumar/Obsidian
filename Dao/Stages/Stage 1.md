@@ -1,6 +1,7 @@
 ---
 tags:
   - Dao
+node_size: "2"
 ---
 Formed from [[Stage 0]]
 
@@ -19,7 +20,7 @@ Purify to [[Stage 2]]
 
 # Soul core
 
-The soul of a [[Person]] starts generating [[Principle]]s based on the soul flows of their Aspectual Formation. 
+The soul of a [[Person]] starts generating [[Principle|Principles]] based on the soul flows of their Aspectual Formation. 
 
 
 # [[Stage 2|Transcendence]]

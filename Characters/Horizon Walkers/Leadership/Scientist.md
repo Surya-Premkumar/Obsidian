@@ -11,7 +11,7 @@ So basically, he's like 70 mentally, has dementia from old age, walks with a can
 Part of the [[Horizon Walkers]]. Head of the Research Division. 
 
 # Early Life
-Chosen as one of the 6 who would lead the [[Horizon Walkers]] into the [[Realm of Horizon]], alongside  [[Solace]], [[Pride]] [[Characters/Horizon Walkers/Impact]], [[Psychologist]] and [[Management]]. 
+Chosen as one of the 6 who would lead the [[Horizon Walkers]] into the [[Realm of Horizon]], alongside  [[Solace]], [[Pride]] [[Impact]], [[Psychologist]] and [[Management]]. 
 
 # Time in the [[Realm of Horizon|Distant Horizon]]
 

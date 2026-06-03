@@ -2,5 +2,5 @@
 tags:
   - Location
 ---
-Star: [[Black Sun]]
+Star: [[Black Star]]
 
