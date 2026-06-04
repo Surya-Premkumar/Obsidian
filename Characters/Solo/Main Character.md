@@ -42,3 +42,7 @@ The conflict between [[Stability Society]] & [[Horizon Walkers]] is visible sinc
 
 
 # Volume 3
+
+### [[Ascending to Heavens in a Single Step]]
+
+Throughout Volume 2, we see the Main Character going around to different stars and setting up Formation Cores on different stars that are used for channelling the light of the suns

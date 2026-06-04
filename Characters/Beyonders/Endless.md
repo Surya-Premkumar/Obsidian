@@ -1,6 +1,8 @@
 ---
 tags:
   - Character
+aliases:
+  - He without end
 ---
 Who is not 
 
