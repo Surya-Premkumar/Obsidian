@@ -20,10 +20,14 @@ The more of the same projectile it absorbs, the faster the deduction occurs.
 Launches ink projectiles that engrave weakness/ other effects onto the target
 
 ### Movement 
-Rides a flying paper carpet
+Rides flowing ink for minimal movement during combat due to his preference for long range.
+
+For journeying, he rides paper
 
 ### Healing
+Instance healing: Bandages that block block the effects of damage on his body
 
+Recovery: Ink Scriptures that force his body to heal
 
 ### Reconnaissance 
 

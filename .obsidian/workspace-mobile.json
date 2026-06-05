@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Solo/Dark Heaven Emperor.md",
+                "file": "Characters/Solo/Scriptures.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Dark Heaven Emperor"
+              "title": "Scriptures"
             }
           },
           {
@@ -184,9 +194,12 @@
   },
   "active": "77ee500837e7e7a1",
   "lastOpenFiles": [
+    "Characters/Solo/Dark Heaven Emperor.md",
+    "Dao/Principles/Dark.md",
+    "Dao/Magic",
+    "Factions/Organisations/Beyond.md",
     "Dao/Principles/Fate and Destiny.md",
     "Formations/Ascending to Heavens in a Single Step.md",
-    "Characters/Solo/Dark Heaven Emperor.md",
     "Characters/Ascendants/Ceaseless Calamities.md",
     "Characters/Solo/Main Character.md",
     "Characters/Beyonders/Endless.md",
@@ -209,8 +222,6 @@
     "Characters/Ascendants/Cold Steel Pride Authority.md",
     "Characters/Ascendants/Transcension Candidates/Boundless Dreamer Seeking Reality.md",
     "Characters/Solo/Annihilations.md",
-    "Characters/Solo/Scriptures.md",
-    "Dao/Flow/Engraving.md",
     "Characters/Solo/Untitled/Untitled",
     "Characters/Solo/Untitled",
     "Characters/Ascendants/Transcension Candidates",
@@ -218,7 +229,6 @@
     "Characters/Horizon Walkers/Scouted",
     "Characters/Horizon Walkers/Historic",
     "Characters/Horizon Walkers/Leadership",
-    "Characters/Beyonders",
-    "Stuff/Resources/Darkness"
+    "Characters/Beyonders"
   ]
 }

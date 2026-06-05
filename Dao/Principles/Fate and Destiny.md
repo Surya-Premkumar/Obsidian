@@ -19,5 +19,3 @@ Basically a fragment of someone's life aspect. Can exist endlessly but their dea
 
 [[Ceaseless Calamities]]
 
-
-[[Emperor]]

@@ -1,1 +1,1 @@
-Comprised of [[Darkness|Dark]] & [[Mutation]] [[Principle|Principles]]. Anything under the [[Dark Light]] mutates to adapt to the [[Darkness]], while their soul withers away under the intense [[Black Fire]], [[Mutation|corrupting]] their body.
+Comprised of [[Dark|Dark]] & [[Mutation]] [[Principle|Principles]]. Anything under the [[Dark Light]] mutates to adapt to the [[Dark]], while their soul withers away under the intense [[Black Fire]], [[Mutation|corrupting]] their body.
