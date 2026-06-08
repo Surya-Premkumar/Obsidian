@@ -11,24 +11,10 @@
             "id": "77ee500837e7e7a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Formations/Ascending to Heavens in a Single Step.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ascending to Heavens in a Single Step"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -194,8 +180,17 @@
   },
   "active": "77ee500837e7e7a1",
   "lastOpenFiles": [
+    "Characters/Beyonders/Boundless.md",
+    "A Matter of Principles/A Matter of Principles.md",
+    "Characters/Beyonders/Nameless.md",
+    "Formations/Transcending the Heavens in a Single Step.md",
+    "Characters/Solo/Main Character.md",
+    "A Matter of Principles/Volume 3.md",
+    "A Matter of Principles/Volume 2.md",
+    "A Matter of Principles/Untitled",
+    "A Matter of Principles/Volume 1.md",
+    "A Matter of Principles",
     "Dao/Stages/Stage 2.md",
-    "Formations/Ascending to Heavens in a Single Step.md",
     "Formations/Project Alpha-7.md",
     "Characters/Solo/Scriptures.md",
     "Characters/Solo/Dark Heaven Emperor.md",
@@ -204,7 +199,6 @@
     "Factions/Organisations/Beyond.md",
     "Dao/Principles/Fate and Destiny.md",
     "Characters/Ascendants/Ceaseless Calamities.md",
-    "Characters/Solo/Main Character.md",
     "Characters/Beyonders/Endless.md",
     "Formations/Dreaming of Distant Realms.md",
     "Dao/Stages/Stage 0.md",
@@ -216,19 +210,11 @@
     "Dao/Principles/Light.md",
     "Factions/Organisations/Horizon Walkers.md",
     "Factions/Organisations/Covenant.md",
-    "Factions/Organisations/Clans of Evolution.md",
-    "Characters/Ascendants/Transcension Candidates/Bloods.md",
-    "Characters/Ascendants/Painter.md",
-    "Dao/Stages/Stage 1.md",
-    "Dao/Principles/Mutation.md",
-    "Characters/Ascendants/Cold Steel Pride Authority.md",
     "Characters/Solo/Untitled/Untitled",
     "Characters/Solo/Untitled",
     "Characters/Ascendants/Transcension Candidates",
     "Dao/Principles/Untitled",
     "Characters/Horizon Walkers/Scouted",
-    "Characters/Horizon Walkers/Historic",
-    "Characters/Horizon Walkers/Leadership",
-    "Characters/Beyonders"
+    "Characters/Horizon Walkers/Historic"
   ]
 }
