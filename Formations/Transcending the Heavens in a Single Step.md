@@ -16,3 +16,6 @@ Later in Volume 3, he redesigns the formation to rebuild his body, jump starting
 
 
 Derived from [[Project Alpha-7]] obtained from the [[Horizon Walkers]] in Volume 2
+
+# Nodes
+

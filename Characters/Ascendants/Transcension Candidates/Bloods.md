@@ -28,6 +28,24 @@ Expanding the path of blood to encompass all things and going deeper into his un
 
 # Early life
 
-Wiped out [[Random Clan idk]] using with his first unique flow [Stain], the core of which is [Dismissal], allowing him to ignore the countless s
+Wiped out [[Random Clan idk]] using with his first unique flow [Stain], 
 
 # [[Blood]]
+
+### Revival 
+Version 0: Runs the blood of life through a recently passed body to forcibly revive it. Cannot be used on the self due to it requiring the user to be alive to activate the flow.
+
+Version 1: Allows the user to pre-fire the flow, to activate after death to revive themselves.
+
+### Bloody Rebirth
+
+Version 1: Converts a Human Body into a [[Blood Body]] more adept for his [[Flow|Flows]]
+
+Version 2: [[Blood Body|Blood Bodies]] can now be recreated from Blood Sea Revivification 
+
+### Blood Sea Revivification 
+
+Creates a [Blood Body] for 
+
+### Stain
+the core of which is [Dismissal], allowing him to use his power to counter the resistance of human souls to external flows. 

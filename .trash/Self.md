@@ -10,4 +10,4 @@ A mortal that reached ascendence will always understand that it is only the firs
 
 [[Daoist Carving the Path]]
 
-[[Cold Steel Pride Authority]]
+[[Cold Steel Pride Auth

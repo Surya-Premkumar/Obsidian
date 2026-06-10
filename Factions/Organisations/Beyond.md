@@ -9,6 +9,6 @@ Members
 
 
 Future members 
-- [[Dark Heaven Emperor]]
+- [[Dark Heavens Emperor]]
 - [[Main Character]]
 - 

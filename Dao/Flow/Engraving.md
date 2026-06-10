@@ -11,3 +11,10 @@ A physical incomplete [[Flow]] imprinted on a resource. It can consume the resou
 ### Scriptures
 Created by [[Scriptures]]
 Written onto paper 
+
+### Runes
+Created by [[Daoist Carving the Path]]
+
+
+### Patterns
+Created by [[Painter]]

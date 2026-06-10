@@ -2,19 +2,41 @@
 node_size: "1"
 tags:
   - Faction
+aliases:
+  - Nomads
 ---
 #Faction #Horizon_Walker
 
 
 Originating as a group of Treasure/ History Seeking Nomads who could send their minds into past Great Eras, originally focused on the [[Era of Order]], but when the first group that were lost to the [[Realm of Horizon]] return, they take over the organisation and lead the Nomads to greater heights.
 
-They changed the name to Horizon Walkers
+They changed the name to Horizon Walkers.
+
+# Structure 
+Due to them being tied together but by Path, but by Principle, they do not compete over [[Resources]] with eachother, leading to a faction being formed.
+
+
+### Research Division (Alpha)
+Led by [[Scientist]]
+Merged with the Gamma after [[Scientist]] activates his formation
+
+### Resource Management (Beta)
+Led by [[Management]]
+
+### Gamma Division 
+Led by [[Psychologist]]
+
+
+### Delta Squadron
+Led by [[Impact]]
+soldiers & such
 
 
 
 
-# The Nomads
-~~A group of wanderers who were capable of using the time bending capabilities of [[Black Hole]] to witness (and later experiences) past events. They used this to gather information about the [[Era of Order]], using the complete [[Principle|engravements]] they found to advance their power stably~~ 
+
+
+# The Nomads  
 
 Nomads travel between different factions and settlements and traded resources between them, allowing for a level of commerce to exist. 
 

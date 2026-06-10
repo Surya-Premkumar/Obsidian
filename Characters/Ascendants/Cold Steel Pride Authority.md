@@ -3,7 +3,10 @@ tags:
   - Character
 node_size: "1"
 ---
-Lives in [[Planet W|Desolate South]]
+Originally cultivated in [[Planet W|Desolate South]].
+
+Now creating [[Artificial Heaven]]
+
 
 # Principle of Self
 

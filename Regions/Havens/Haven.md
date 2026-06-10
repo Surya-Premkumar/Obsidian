@@ -8,5 +8,10 @@ Isolated areas.
 Larger than Systems
 Filled with stars of their respective colours 
 
-# Havens 
-- [[Dark Haven]]
+# [[Haven]]
+- [[Dark Haven]] - [[Dark Heavens Emperor]]
+
+
+# Artificial [[Haven]]
+- [[Artificial Heaven]] - [[Cold Steel Pride Authority]]
+
