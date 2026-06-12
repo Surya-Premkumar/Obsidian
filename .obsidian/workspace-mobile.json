@@ -11,14 +11,10 @@
             "id": "77ee500837e7e7a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Covenant/Thousands.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Thousands"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -27,16 +23,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dao/Stages/Stage 1.md",
+                "file": "Characters/Ascendants/Painter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stage 1"
+              "title": "Painter"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,8 +178,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "b0a07fd7fe894829",
+  "active": "77ee500837e7e7a1",
   "lastOpenFiles": [
+    "Dao/Principles/Wind.md",
+    "Formations/Blood Sea.md",
+    "Characters/Ascendants/Transcension Candidates/Bloods.md",
+    "Characters/Covenant/Thousands.md",
+    "Characters/Ascendants/Painter.md",
+    "zFiles",
+    "zFiles/tattoo.mp4",
+    "Dao/Stages/Stage 1.md",
+    "Dao/Stages/Stage 2.md",
     "Dao/Principles/Mutation.md",
     "A Matter of Principles/Volume 3.md",
     "Formations/Transcending the Heavens in a Single Step.md",
@@ -200,17 +204,10 @@
     "Characters/Horizon Walkers/Historic/Unknown Guy1.md",
     "Formations/Dreaming of Distant Realms.md",
     "Characters/Solo/Desires.md",
-    "Characters/Covenant/Thousands.md",
     "Characters/Covenant/Asura.md",
-    "Characters/Ascendants/Transcension Candidates/Bloods.md",
     "Characters/Horizon Walkers/Scouted/Sound of the Wind.md",
     "Timeline/Era of Prosperity/Realm of Horizon.md",
     "Factions/Organisations/Horizon Walkers.md",
-    "Formations/Project Alpha-7.md",
-    "Stuff/Creatures/Blood Body.md",
-    "Characters/Ascendants/Ceaseless Calamities.md",
-    "Dao/Principles/Metal.md",
-    "Characters/Ascendants/Daoist Carving the Path.md",
     "A Matter of Principles/Untitled",
     "A Matter of Principles",
     "Dao/Magic",
@@ -218,8 +215,6 @@
     "Characters/Solo/Untitled/Untitled",
     "Characters/Solo/Untitled",
     "Characters/Ascendants/Transcension Candidates",
-    "Dao/Principles/Untitled",
-    "Characters/Horizon Walkers/Scouted",
-    "Characters/Horizon Walkers/Historic"
+    "Dao/Principles/Untitled"
   ]
 }

@@ -15,4 +15,7 @@ Candidates
 - [[Boundless Dreamer Seeking Reality]]
 - [[Bloods]]
 - [[Psychologist]] (Volume 2)
+- [[Main Character|Light of Heaven]]
+- [[Dark Heavens Emperor]]
+
 
