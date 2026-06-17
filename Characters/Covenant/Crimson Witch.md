@@ -2,8 +2,22 @@
 tags:
   - Character
   - Covenant
+aliases:
+  - Laura Smith
+  - Jane Smith
 ---
-5th born of the [[Bloods]]
+Originally the body of a orphaned child dying at war, revived by [[Soulless]] for experimentation. Survived the aforementioned experiments with a soul split into 2 incomplete soul shards. 
 
-Specialises in Ranged burst attacks of [[Blood]].
 
+5th disciple raised by [[Bloods]] in his later years. 
+
+# [[Blood]]
+
+### Soul Coagulation 
+Stabilises her shattered soul by holding it together.
+
+
+# Aspectual Formation 
+
+### Offence 
+Large explosions of power

@@ -3,7 +3,7 @@ tags:
   - Faction
 ---
 Members 
-- [[Nameless]]
+- [[Soulless]]
 - [[Boundless]]
 - [[Endless]]
 

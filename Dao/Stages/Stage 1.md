@@ -8,15 +8,17 @@ Formed from [[Stage 0]]
 Purify to [[Stage 2]]
 
 # List
+### Volume 1
 - [[Bloods]]
 - [[Boundless Dreamer Seeking Reality]]
 - [[Ceaseless Calamities]]
-- [[Wheel of Fortune]]
 - [[Cold Steel Pride Authority]]
 - [[Daoist Carving the Path]]
 - [[Painter]]
-
-
+### Volume 2
+- [[Main Character]]
+- [[Dark Heavens Emperor]]
+- 
 
 # Soul core
 

@@ -25,5 +25,3 @@ Ranged: Annihilation that spreads towards the target, not fast, but wide spread
 # [[Fate and Destiny]]
 
 Is a living calamity, and is protected by [[Ceaseless Calamities]].
-
-[[Wheel of Fortune]] is trying to resolve his existence.

@@ -16,19 +16,26 @@ Progenitor of [[Blood]] Path. Likely the greatest talent to ever exist in the wo
 
 
 ### 20
-Wiped out [[Random Clan idk]] using with his first unique flow [Stain],
+Wiped out [[Random Clan idk]] using with his first unique flow [Stain]
 
+
+
+
+
+
+
+# Disciples
+### [[Thousands]]
+His early years
+
+### [[Crimson Witch]]
+
+### [[Asura]]
+
+
+### [[Sound of the Wind]]
 
 # [[Covenant]]
-
-
-### Disciples
-- [[Thousands]]
-- [[Crimson Witch]]
-- [[Asura]]
-
-### Indirect Disciple 
-- [[Sound of the Wind]]
 
 # [[Stage 2|Transcendence]] Candidacy 
 

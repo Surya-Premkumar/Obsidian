@@ -15,7 +15,5 @@ Basically a fragment of someone's life aspect. Can exist endlessly but their dea
 
 # Users
 
-[[Wheel of Fortune]]
-
 [[Ceaseless Calamities]]
 

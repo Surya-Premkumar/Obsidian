@@ -11,24 +11,36 @@
             "id": "77ee500837e7e7a1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Ascendants/Transcension Candidates/Bloods.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Bloods"
             }
           },
           {
             "id": "b0a07fd7fe894829",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Ascendants/Painter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Painter"
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -122,7 +134,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Characters/Main Character.md",
+            "file": "Characters/Ascendants/Transcension Candidates/Bloods.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -180,34 +192,34 @@
   },
   "active": "77ee500837e7e7a1",
   "lastOpenFiles": [
+    "Characters/Covenant/Crimson Witch.md",
+    "Characters/Beyonders/Soulless.md",
+    "Characters/Solo/Annihilations.md",
+    "Dao/Principles/Fate and Destiny.md",
+    "A Matter of Principles/Volume 2.md",
+    "Formations/Transcending the Heavens in a Single Step.md",
+    "Characters/Beyonders/Boundless.md",
+    "Dao/Stages/Stage 1.md",
+    "Characters/Ascendants/Painter.md",
+    "Characters/Ascendants/Wheel of Fortune.md",
+    "Formations/Project Alpha-7.md",
+    "A Matter of Principles/Volume 1.md",
+    "Characters/Solo/Main Character.md",
     "Dao/Principles/Wind.md",
     "Formations/Blood Sea.md",
     "Characters/Ascendants/Transcension Candidates/Bloods.md",
     "Characters/Covenant/Thousands.md",
-    "Characters/Ascendants/Painter.md",
     "zFiles",
     "zFiles/tattoo.mp4",
-    "Dao/Stages/Stage 1.md",
     "Dao/Stages/Stage 2.md",
     "Dao/Principles/Mutation.md",
     "A Matter of Principles/Volume 3.md",
-    "Formations/Transcending the Heavens in a Single Step.md",
-    "Characters/Solo/Main Character.md",
-    "A Matter of Principles/Volume 2.md",
-    "A Matter of Principles/Volume 1.md",
     "Dao/Flow/Engraving.md",
     "Characters/Ascendants/Cold Steel Pride Authority.md",
     "Regions/Havens/Haven.md",
     "Characters/Solo/Dark Heavens Emperor.md",
     "Regions/Planet X.md",
     "Stuff/Creatures/Dark Beast.md",
-    "Characters/Horizon Walkers/Historic/Unknown Guy1.md",
-    "Formations/Dreaming of Distant Realms.md",
-    "Characters/Solo/Desires.md",
-    "Characters/Covenant/Asura.md",
-    "Characters/Horizon Walkers/Scouted/Sound of the Wind.md",
-    "Timeline/Era of Prosperity/Realm of Horizon.md",
-    "Factions/Organisations/Horizon Walkers.md",
     "A Matter of Principles/Untitled",
     "A Matter of Principles",
     "Dao/Magic",
