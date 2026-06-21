@@ -4,6 +4,7 @@ tags:
   - Entity
 aliases:
   - Blood Planet
+  - Planet B
 ---
 Current Residence of [[Bloods]] & [[Thousands]]
 

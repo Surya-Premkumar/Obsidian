@@ -45,10 +45,6 @@ Since nomadic travelling is dangerous, they typically do not form families or co
 # Conflict with [[Stability Society]]
 
 
-### Research Division 
-Header by the [[Scientist]], they effectively exist to study the black hole they surround.
-
-
 
 
 

@@ -2,7 +2,9 @@
 tags:
   - Faction
 ---
-Closest thing to a Society you gonna get
+Closest thing to a Society you gonna get.
+
+Located in [[Planet A]] [[System A]]
 
 
 Orphans (A lot of those here) typically go to the Nomads since they got fuck all else of a future, so they go and join the Nomads, who go around to different places and bug & sell goods. Now the Nomads are the [[Horizon Walkers]], the amount has gone down, but they typically offer positions to those who show good talent.
