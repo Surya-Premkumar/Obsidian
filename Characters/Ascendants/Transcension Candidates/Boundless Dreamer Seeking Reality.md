@@ -15,7 +15,7 @@ Turning Dreams & Imagination into Reality
 
 
 # Distant Realms Formation 
-Created a formation alongside [[Endless]] which allows people to visit moments of the past in their dream using the power of a black hole. Gave this to the nomadic tribes who then centered their groups around using these formations. 
+Created a formation alongside [[Eternal]] which allows people to visit moments of the past in their dream using the power of a black hole. Gave this to the nomadic tribes who then centered their groups around using these formations. 
 
 # [[Stage 2|Transcendence]] Candidacy
 

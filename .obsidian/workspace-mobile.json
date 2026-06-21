@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Ascendants/Transcension Candidates/Bloods.md",
+                "file": "Characters/Murim Alliance/Great Martial.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bloods"
+              "title": "Great Martial"
             }
           },
           {
@@ -134,7 +134,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Characters/Ascendants/Transcension Candidates/Bloods.md",
+            "file": "Characters/Murim Alliance/Great Martial.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -192,13 +192,18 @@
   },
   "active": "77ee500837e7e7a1",
   "lastOpenFiles": [
-    "Characters/Covenant/Crimson Witch.md",
+    "Characters/Murim Alliance/Sword Supreme.md",
+    "Characters/Murim Alliance",
+    "Characters/Murim Alliance/Great Martial.md",
+    "Characters/Beyonders/Eternal.md",
     "Characters/Beyonders/Soulless.md",
+    "Characters/Beyonders/Endless.md",
+    "Characters/Ascendants/Transcension Candidates/Bloods.md",
+    "Characters/Covenant/Crimson Witch.md",
     "Characters/Solo/Annihilations.md",
     "Dao/Principles/Fate and Destiny.md",
     "A Matter of Principles/Volume 2.md",
     "Formations/Transcending the Heavens in a Single Step.md",
-    "Characters/Beyonders/Boundless.md",
     "Dao/Stages/Stage 1.md",
     "Characters/Ascendants/Painter.md",
     "Characters/Ascendants/Wheel of Fortune.md",
@@ -207,7 +212,6 @@
     "Characters/Solo/Main Character.md",
     "Dao/Principles/Wind.md",
     "Formations/Blood Sea.md",
-    "Characters/Ascendants/Transcension Candidates/Bloods.md",
     "Characters/Covenant/Thousands.md",
     "zFiles",
     "zFiles/tattoo.mp4",
@@ -216,17 +220,12 @@
     "A Matter of Principles/Volume 3.md",
     "Dao/Flow/Engraving.md",
     "Characters/Ascendants/Cold Steel Pride Authority.md",
-    "Regions/Havens/Haven.md",
-    "Characters/Solo/Dark Heavens Emperor.md",
-    "Regions/Planet X.md",
-    "Stuff/Creatures/Dark Beast.md",
     "A Matter of Principles/Untitled",
     "A Matter of Principles",
     "Dao/Magic",
     "Formations",
     "Characters/Solo/Untitled/Untitled",
     "Characters/Solo/Untitled",
-    "Characters/Ascendants/Transcension Candidates",
-    "Dao/Principles/Untitled"
+    "Characters/Ascendants/Transcension Candidates"
   ]
 }

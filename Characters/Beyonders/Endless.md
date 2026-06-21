@@ -1,16 +1,15 @@
 ---
 tags:
   - Character
-aliases:
-  - He without end
 ---
-Who is not 
+He who is unbound by Space
 
-Created the Formation used by the Nomads
-
-# [[Time]]
 
 # Aspectual Formation 
 
-### Movement
-Slows down time
+
+
+# [[Space]]
+
+### Isolate
+Separates a region of space, forcing enemies into combat by blocked escape.
