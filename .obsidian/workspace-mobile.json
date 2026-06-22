@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b0a07fd7fe894829",
+            "id": "bcc4dffeafef1a1e",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -20,35 +20,22 @@
             }
           },
           {
-            "id": "bcc4dffeafef1a1e",
+            "id": "8eeafa3bae31e835",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timeline/Era of Order.md",
+                "file": "Characters/Beyonders/Eternal.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Era of Order"
-            }
-          },
-          {
-            "id": "cacd0aa1666efada",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Matter of Principles/Volume 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Volume 2"
+              "title": "Eternal"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,35 +182,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "cacd0aa1666efada",
+  "active": "8eeafa3bae31e835",
   "lastOpenFiles": [
+    "Dao/Person.md",
+    "Characters/Stability Faction/Stability Leader (Old).md",
+    "Characters/Stability Faction/Stability Leader.md",
     "A Matter of Principles/Volume 1.md",
+    "Regions/Planet A.md",
+    "Dao/Flow/Formation.md",
+    "Dao/Principles/Time.md",
+    "Timeline/Era of Order.md",
+    "Characters/Covenant/Asura.md",
+    "Characters/Covenant/Thousands.md",
+    "Characters/Ascendants/Transcension Candidates/Bloods.md",
+    "Dao/Principles/Dark.md",
     "A Matter of Principles/Volume 3.md",
+    "Characters/Solo/Main Character.md",
+    "A Matter of Principles/Volume 2.md",
     "Stuff/Creatures/Dream Body.md",
     "Stuff/Creatures/Dark Beast.md",
     "Stuff/Creatures/Blood Body.md",
-    "A Matter of Principles/Volume 2.md",
     "Factions/Organisations/Horizon Walkers.md",
-    "Planet A.md",
     "Factions/Organisations/Stability Society.md",
     "A Matter of Principles/A Matter of Principles.md",
     "Factions/Random Clan idk.md",
-    "System A.md",
+    "Regions/System A.md",
     "Regions/Red Star.md",
-    "Characters/Ascendants/Transcension Candidates/Bloods.md",
-    "Timeline/Era of Order.md",
     "Characters/Beyonders/Endless.md",
     "Characters/Murim Alliance/Great Martial.md",
-    "Characters/Murim Alliance/Sword Supreme.md",
     "Characters/Murim Alliance",
-    "Characters/Beyonders/Eternal.md",
-    "Characters/Beyonders/Soulless.md",
-    "Characters/Covenant/Crimson Witch.md",
-    "Characters/Solo/Annihilations.md",
-    "Dao/Principles/Fate and Destiny.md",
-    "Formations/Transcending the Heavens in a Single Step.md",
-    "Dao/Stages/Stage 1.md",
-    "Characters/Ascendants/Painter.md",
     "zFiles",
     "zFiles/tattoo.mp4",
     "A Matter of Principles/Untitled",

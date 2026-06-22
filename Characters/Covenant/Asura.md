@@ -4,6 +4,8 @@ tags:
 ---
 Head of the Blood Monk Faction of the [[Covenant]]
 
+Often fights [[Great Martial]] and [[Sword Supreme]]
+
 # [[Blood]]
 
 ### Unaging Body

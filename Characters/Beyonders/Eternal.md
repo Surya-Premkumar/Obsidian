@@ -10,6 +10,12 @@ Created the Formation used by the Nomads
 
 # [[Time]]
 
+
+# Enlightenment 
+
+Soul -> [[Web of Time]]
+
+
 # Aspectual Formation 
 
 ### Movement

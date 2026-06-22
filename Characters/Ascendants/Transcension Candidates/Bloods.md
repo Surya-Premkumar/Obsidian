@@ -4,7 +4,7 @@ tags:
 aliases:
   - Father of Blood
   - Blood Siege Demon
-node_size: "1"
+node_size: "2"
 ---
 Progenitor of [[Blood]] Path. Likely the greatest talent to ever exist in the world. Expanded Blood to incorporate the strengths of every other path . 
 

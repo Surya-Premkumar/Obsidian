@@ -42,7 +42,7 @@ Nomads travel between different factions and settlements and traded resources be
 
 Since nomadic travelling is dangerous, they typically do not form families or couples, and therefore few children are born. To maintain their numbers, they take in people from the different places they travel too, especially people without attachments, like orphans/ runaways/ abandoned kids or widows/ widowers. 
 
-# Conflict with [[Stability Society]]
+# Conflict with [[Factions/Organisations/Stability Society]]
 
 
 
