@@ -21,5 +21,7 @@ Visits a Sun and obtains enlightenment, comparing the countless uncontrolled flo
 # Finale
 
 [[Factions/Organisations/Stability Society]] requests MC to be a mediator between them & the horizon walkers since he is regarded as neutral. He arrives, conflict is not resolved. Stability try to attack Horizon Walkers, but the Horizon Walkers leave, quite easily. 
-[[Project Alpha-7]] is used, [[Factions/Organisations/Stability Society]] gets squad wiped.
+[[Project Alpha-7]] is used
+
+[[Factions/Organisations/Stability Society]] gets squad wiped.
 

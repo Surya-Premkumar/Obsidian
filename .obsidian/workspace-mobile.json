@@ -20,22 +20,20 @@
             }
           },
           {
-            "id": "8eeafa3bae31e835",
+            "id": "3b03ab4b5e8917ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Beyonders/Eternal.md",
+                "file": "A Matter of Principles/Volume 1.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": false
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Eternal"
+              "title": "Volume 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,19 +180,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "8eeafa3bae31e835",
+  "active": "bcc4dffeafef1a1e",
   "lastOpenFiles": [
+    "A Matter of Principles/Volume 1.md",
+    "Characters/Horizon Walkers/Historic/Unknown Guy1.md",
+    "Formations/Dreaming of Distant Realms.md",
+    "Characters/Beyonders/Eternal.md",
+    "Dao/Stages/Stage 2.md",
+    "Characters/Ascendants/Transcension Candidates/Bloods.md",
+    "Factions/Organisations/Horizon Walkers.md",
     "Dao/Person.md",
     "Characters/Stability Faction/Stability Leader (Old).md",
     "Characters/Stability Faction/Stability Leader.md",
-    "A Matter of Principles/Volume 1.md",
     "Regions/Planet A.md",
     "Dao/Flow/Formation.md",
     "Dao/Principles/Time.md",
     "Timeline/Era of Order.md",
     "Characters/Covenant/Asura.md",
     "Characters/Covenant/Thousands.md",
-    "Characters/Ascendants/Transcension Candidates/Bloods.md",
     "Dao/Principles/Dark.md",
     "A Matter of Principles/Volume 3.md",
     "Characters/Solo/Main Character.md",
@@ -202,14 +205,9 @@
     "Stuff/Creatures/Dream Body.md",
     "Stuff/Creatures/Dark Beast.md",
     "Stuff/Creatures/Blood Body.md",
-    "Factions/Organisations/Horizon Walkers.md",
     "Factions/Organisations/Stability Society.md",
     "A Matter of Principles/A Matter of Principles.md",
     "Factions/Random Clan idk.md",
-    "Regions/System A.md",
-    "Regions/Red Star.md",
-    "Characters/Beyonders/Endless.md",
-    "Characters/Murim Alliance/Great Martial.md",
     "Characters/Murim Alliance",
     "zFiles",
     "zFiles/tattoo.mp4",
