@@ -14,8 +14,9 @@ Unified from [[Stage 1]]
 Candidates
 - [[Boundless Dreamer Seeking Reality]]
 - [[Bloods]]
-- [[Psychologist]] (Volume 2)
+- [[Endless]]
 - [[Main Character|Light of Heaven]]
 - [[Dark Heavens Emperor]]
+
 
 

@@ -1,3 +1,12 @@
+---
+aliases:
+  - Race to Transcension
+---
+
+
+
+
+
 
 
 ### Part 3: Blood and Dreams
@@ -16,7 +25,7 @@ Forcing [[Boundless Dreamer Seeking Reality]] to start their transcension early.
 
 
 
-### Part 4: [[Main Character|The Light of Heaven]]
+### Part 4:   [[Main Character|The Light of Heaven]]
 
 
 

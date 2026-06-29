@@ -33,4 +33,4 @@ Requirements:
 
 Combining both of this completely should start a Unification of the mind, body and soul, to be comprised of a persons principle. 
 
-Part of this process can be done later if the process of Unification is jumpstarted by the cultivator. 
+Part of this process can be done later if the process of Unification is jumpstarted by the cultivator with the assistance of an 

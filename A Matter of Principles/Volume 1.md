@@ -21,7 +21,16 @@ Visits a Sun and obtains enlightenment, comparing the countless uncontrolled flo
 # Finale
 
 [[Factions/Organisations/Stability Society]] requests MC to be a mediator between them & the horizon walkers since he is regarded as neutral. He arrives, conflict is not resolved. Stability try to attack Horizon Walkers, but the Horizon Walkers leave, quite easily. 
-[[Project Alpha-7]] is used
+
+[[Endless]] speaks to [[Scientist]] about the concepts of [[Space]] and [[Time]] to consolidate his understanding, using [[Scientist]]'s [[Monster]] Aspect of Teaching. In exchange, [[Endless]] must provide support to the [[Horizon Walkers]] in his present time ([[Volume 3]])
+
+
+
+
+
+[[Project Alpha-7]] is used and damaged the [[Web of Space & Time]], allowing [[Endless]] to interfere 
+
+
 
 [[Factions/Organisations/Stability Society]] gets squad wiped.
 

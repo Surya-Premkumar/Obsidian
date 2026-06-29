@@ -7,12 +7,13 @@ aliases:
 
 # Principle
 
-A person's Daon Pursuit is split into 4 parts
+A person's Dao Pursuit is split into 4 Fragments
+
  - Understanding : The time it takes to comprehend existing flows
 
  - Ingenuity: The time it takes to create new flows
 
- - Knowledge: Knowledge they've learnt which allows them to skip the beginning period of time for both understanding & creating flows 
+ - Accumulation: Knowledge they've learnt which allows them to skip the beginning period of time for both understanding & creating flows 
 
  - Insight: Success rate of the steps of creating/ understanding a flow
 
@@ -43,7 +44,24 @@ All are covered by the same principle.
 
 Understands [[Flow|Flows]] that already exist in the world and can
 
+### [[Genius]]
+
+Outstanding in any of the 4 Fragments of Dao Pursuit.
+
+### [[Monster]]
+
+Capable of the impossible.
+
+
+
+
 
 
 # Body
+
+### [[Blood Body]]
+
+
+### [[Dream Body]]
+
 
