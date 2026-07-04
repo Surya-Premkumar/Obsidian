@@ -1,0 +1,6 @@
+---
+tags:
+  - Location
+aliases:
+  - Web
+---

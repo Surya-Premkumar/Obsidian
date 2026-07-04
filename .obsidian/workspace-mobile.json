@@ -25,12 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Matter of Principles/Volume 1.md",
+                "file": "Characters/Ascendants/Transcension Candidates/Forever.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Volume 1"
+              "title": "Forever"
             }
           },
           {
@@ -39,12 +40,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monster.md",
+                "file": "Dao/Life/Person.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Monster"
+              "title": "Person"
             }
           }
         ],
@@ -139,7 +140,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Characters/Murim Alliance/Great Martial.md",
+            "file": "A Matter of Principles/Volume 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -197,18 +198,21 @@
   },
   "active": "6da9b08bdcfcc938",
   "lastOpenFiles": [
+    "Web of Space & Time.md",
+    "Characters/Ascendants/Transcension Candidates/Forever.md",
+    "Dao/Life/Person.md",
+    "A Matter of Principles/Volume 1.md",
+    "Characters/Beyonders/Endless.md",
+    "Dao/Stages/Stage 2.md",
+    "Dao/Life/Monster.md",
+    "Dao/Life",
+    "Untitled.base",
     "A Matter of Principles/Volume 2.md",
     "A Matter of Principles/Volume 3.md",
     "Dao/Stages/Stage 1.md",
-    "Dao/Stages/Stage 2.md",
     "Characters/Ascendants/Transcension Candidates/Eternal.md",
-    "Characters/Beyonders/Endless.md",
-    "Monster.md",
-    "Dao/Person.md",
-    "Genius.md",
-    "A Matter of Principles/Volume 1.md",
+    "Dao/Life/Genius.md",
     "aj.md",
-    "Web of Space & Time.md",
     "Characters/Ascendants/Painter.md",
     "Characters/Horizon Walkers/Historic/Unknown Guy1.md",
     "Formations/Dreaming of Distant Realms.md",
@@ -222,7 +226,6 @@
     "Timeline/Era of Order.md",
     "Characters/Covenant/Asura.md",
     "Characters/Covenant/Thousands.md",
-    "Dao/Principles/Dark.md",
     "Characters/Murim Alliance",
     "zFiles",
     "zFiles/tattoo.mp4",
@@ -230,8 +233,6 @@
     "A Matter of Principles",
     "Dao/Magic",
     "Formations",
-    "Characters/Solo/Untitled/Untitled",
-    "Characters/Solo/Untitled",
-    "Characters/Ascendants/Transcension Candidates"
+    "Characters/Solo/Untitled/Untitled"
   ]
 }

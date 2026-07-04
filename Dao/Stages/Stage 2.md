@@ -14,7 +14,7 @@ Unified from [[Stage 1]]
 Candidates
 - [[Boundless Dreamer Seeking Reality]]
 - [[Bloods]]
-- [[Endless]]
+- [[Forever]]
 - [[Main Character|Light of Heaven]]
 - [[Dark Heavens Emperor]]
 

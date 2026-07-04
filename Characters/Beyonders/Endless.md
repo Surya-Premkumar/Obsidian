@@ -2,7 +2,7 @@
 tags:
   - Character
 ---
-He who is unbound by Space
+He who is unbound by 
 
 
 # Aspectual Formation 
@@ -13,3 +13,4 @@ He who is unbound by Space
 
 ### Isolate
 Separates a region of space, forcing enemies into combat by blocked escape.
+

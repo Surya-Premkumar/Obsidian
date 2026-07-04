@@ -46,7 +46,7 @@ Understands [[Flow|Flows]] that already exist in the world and can
 
 ### [[Genius]]
 
-Outstanding in any of the 4 Fragments of Dao Pursuit.
+Outstanding in any of the 4 Fragments of Dao Pursuit and reached the human limit of the remaining fragments.
 
 ### [[Monster]]
 
@@ -63,5 +63,7 @@ Capable of the impossible.
 
 
 ### [[Dream Body]]
+
+
 
 

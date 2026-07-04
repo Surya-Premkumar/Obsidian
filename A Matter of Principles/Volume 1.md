@@ -2,7 +2,7 @@ Meets with many different factions and becomes known as a neutral 3rd part to ma
 
 ~~Meets with [[Crimson Witch]], the head of the [[Covenant]]'s 3rd Faction. This is where he becomes more offensively leaning. Its also where we see [[Bloods]]'s evaluation of him as quite talented, "Not as much as [[Annihilations]], but far more stable~~"
 
-[[Factions/Organisations/Stability Society]]'s Head of state, 
+[[Factions/Organisations/Stability Society]]'s Head of state, ]****
 
 [[Clans of Evolution]], where he learns to transform himself into light
 
@@ -22,13 +22,13 @@ Visits a Sun and obtains enlightenment, comparing the countless uncontrolled flo
 
 [[Factions/Organisations/Stability Society]] requests MC to be a mediator between them & the horizon walkers since he is regarded as neutral. He arrives, conflict is not resolved. Stability try to attack Horizon Walkers, but the Horizon Walkers leave, quite easily. 
 
-[[Endless]] speaks to [[Scientist]] about the concepts of [[Space]] and [[Time]] to consolidate his understanding, using [[Scientist]]'s [[Monster]] Aspect of Teaching. In exchange, [[Endless]] must provide support to the [[Horizon Walkers]] in his present time ([[Volume 3]])
+[[Forever]] speaks to [[Scientist]] about the concepts of [[Space]] and [[Time]] to consolidate his understanding, using [[Scientist]]'s [[Monster]] Aspect of Teaching. In exchange, [[Forever]] must provide support to the [[Horizon Walkers]] in his present time ([[Volume 3]])
 
 
 
 
 
-[[Project Alpha-7]] is used and damaged the [[Web of Space & Time]], allowing [[Endless]] to interfere 
+[[Project Alpha-7]] is used and damaged the [[Web of Space & Time]], allowing [[Forever]] to interfere 
 
 
 
