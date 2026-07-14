@@ -1,7 +1,7 @@
 ---
 tags:
   - Character
-node_size: "1"
+node_size: "2"
 aliases:
   - Unbound by Reality
 ---
@@ -24,7 +24,11 @@ Turned his entire body unreal (he specialises in turns dreams real but he did th
 
 He creates like a bunch of avatars that are made of dreams so that even if they die He doesn't die which is effectively removes the mortal aspect of death from him. All the avatars are of the Pinnacle of the mortal level but none of them can be masters 
 
-### Aspect Gathering
+### Aspect Gathering 
+By existing in countless people trapped inside his [[Nebula]], he experiences many different lives and creates countless aspects around his soul
+
+### [[Nebula]]
+
 
 
 

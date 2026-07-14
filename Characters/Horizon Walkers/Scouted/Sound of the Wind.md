@@ -2,6 +2,6 @@
 tags:
   - Character
 ---
-Started learning [[Wind]] but then moved to [[Sound]] after recieving some teaching from [[Bloods]]. 
+Started learning [[Wind]] but then moved to [[Sound]] after recieving some teaching from [[Characters/Ascendants/Transcension Candidates/Mara]]. 
 
-Later joins the [[Horizon Walkers]]
+Later joins the [[Covenant]] 

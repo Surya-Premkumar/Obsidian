@@ -4,7 +4,7 @@ tags:
 aliases:
   - Citadel
 ---
-Main place of [[Factions/Organisations/Stability Society]].
+Main place of [[Stability Society]].
 
 # Citadel 
 Idk

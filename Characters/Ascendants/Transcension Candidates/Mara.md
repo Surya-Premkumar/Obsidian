@@ -3,7 +3,7 @@ tags:
   - Character
 aliases:
   - Father of Blood
-  - Blood Siege Demon
+  - Blood Demon
 node_size: "2"
 ---
 Progenitor of [[Blood]] Path. Likely the greatest talent to ever exist in the world. Expanded Blood to incorporate the strengths of every other path . 
@@ -11,7 +11,7 @@ Progenitor of [[Blood]] Path. Likely the greatest talent to ever exist in the wo
 
 # Life
 ### Early life
-[[Bloods]] starts fucking around with [[Blood]] and healing. 
+[[Characters/Ascendants/Transcension Candidates/Mara]] starts fucking around with [[Blood]] and healing. 
 [[Thousands]] dies as a centipede and is revived 
 
 
@@ -40,10 +40,14 @@ His early years
 # [[Stage 2|Transcendence]] Candidacy 
 
 ### Immortality 
-Can be reborn endlessly from his blood sea on [[Red Star]]. This is one of the aspects of transcendence he has attainted by removing his human death aspect
+Can be reborn endlessly from his [[Blood Sea]] on [[Red Star]]. This is one of the aspects of transcendence he has attainted by removing his human death aspect
 
 ### Comprehension 
 Expanding the path of blood to encompass all things and going deeper into his understanding of it to pursue transcendence. Currently understanding lineage.
+
+### [[Blood Sea]]
+
+
 
 
 

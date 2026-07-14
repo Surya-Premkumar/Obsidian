@@ -2,7 +2,7 @@
 tags:
   - Faction
 ---
-[[Bloods]]'s clan that he killed on a whim, dude's crazy.
+[[Characters/Ascendants/Transcension Candidates/Mara]]'s clan that he killed on a whim, dude's crazy.
 
 They had a big marble palace.
 

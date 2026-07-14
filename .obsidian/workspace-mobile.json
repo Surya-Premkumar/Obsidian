@@ -20,36 +20,49 @@
             }
           },
           {
-            "id": "6da9b08bdcfcc938",
+            "id": "b0cf87a40f54df8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Ascendants/Transcension Candidates/Forever.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Forever"
-            }
-          },
-          {
-            "id": "a7354263e6abb40a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dao/Life/Person.md",
+                "file": "A Matter of Principles/Volume 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Person"
+              "title": "Volume 3"
+            }
+          },
+          {
+            "id": "70aa3bf6888f7fce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Stability Faction/Stability Leader.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stability Leader"
+            }
+          },
+          {
+            "id": "43f82a8ef6ea6608",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lord of the Mountain.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lord of the Mountain"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -196,43 +209,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "6da9b08bdcfcc938",
+  "active": "43f82a8ef6ea6608",
   "lastOpenFiles": [
-    "Web of Space & Time.md",
-    "Characters/Ascendants/Transcension Candidates/Forever.md",
-    "Dao/Life/Person.md",
+    "Factions/Societies/Caldera.md",
+    "Lord of the Mountain.md",
+    "Factions/Societies/Society.md",
+    "Factions/Coalitions/Seafarers.md",
+    "Factions/Societies",
     "A Matter of Principles/Volume 1.md",
-    "Characters/Beyonders/Endless.md",
-    "Dao/Stages/Stage 2.md",
-    "Dao/Life/Monster.md",
-    "Dao/Life",
-    "Untitled.base",
-    "A Matter of Principles/Volume 2.md",
-    "A Matter of Principles/Volume 3.md",
-    "Dao/Stages/Stage 1.md",
-    "Characters/Ascendants/Transcension Candidates/Eternal.md",
-    "Dao/Life/Genius.md",
-    "aj.md",
-    "Characters/Ascendants/Painter.md",
-    "Characters/Horizon Walkers/Historic/Unknown Guy1.md",
-    "Formations/Dreaming of Distant Realms.md",
-    "Characters/Ascendants/Transcension Candidates/Bloods.md",
-    "Factions/Organisations/Horizon Walkers.md",
-    "Characters/Stability Faction/Stability Leader (Old).md",
+    "Characters/Beyonders/Isolations.md",
+    "Characters/Solo/Yama.md",
+    "zFiles/tattoo.mp4",
     "Characters/Stability Faction/Stability Leader.md",
-    "Regions/Planet A.md",
-    "Dao/Flow/Formation.md",
-    "Dao/Principles/Time.md",
-    "Timeline/Era of Order.md",
-    "Characters/Covenant/Asura.md",
-    "Characters/Covenant/Thousands.md",
+    "A Matter of Principles/Volume 3.md",
+    "A Matter of Principles/Volume 2.md",
+    "Formations/Transcending the Heavens in a Single Step.md",
+    "Formations/Project Alpha-7.md",
+    "Nebula.md",
+    "Characters/Ascendants/Transcension Candidates/Eternal.md",
+    "Characters/Ascendants/Transcension Candidates/Mara.md",
+    "Factions/Organisations/Horizon Walkers.md",
+    "Characters/Horizon Walkers/Scouted/Sound of the Wind.md",
+    "Characters/Ascendants/Transcension Candidates/Boundless Dreamer Seeking Reality.md",
+    "Dao/Principles/Blood.md",
+    "Characters/Ascendants/Cold Steel Pride Authority.md",
+    "Regions/Red Star.md",
+    "Formations/Blood Sea.md",
+    "Formations/Dreaming of Distant Realms.md",
+    "Factions/Organisations/Beyond.md",
+    "Dao/Life/Person.md",
+    "Characters/Murim Alliance/Sword Supreme.md",
+    "Untitled.base",
+    "Dao/Life",
     "Characters/Murim Alliance",
     "zFiles",
-    "zFiles/tattoo.mp4",
     "A Matter of Principles/Untitled",
     "A Matter of Principles",
     "Dao/Magic",
-    "Formations",
-    "Characters/Solo/Untitled/Untitled"
+    "Formations"
   ]
 }

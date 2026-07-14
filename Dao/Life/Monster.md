@@ -11,6 +11,6 @@ Those who exist inside the impossible.
 Has the ability to directly teach his knowledge to others
 
 
-# [[Forever]]
+# [[Eternal]]
 
 Copy other paths through [[Time]].

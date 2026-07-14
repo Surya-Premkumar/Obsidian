@@ -4,7 +4,7 @@ tags:
 ---
 Members 
 - [[Soulless]]
-- [[Endless]]
+- [[Isolations]]
 - [[Eternal]]
 
 

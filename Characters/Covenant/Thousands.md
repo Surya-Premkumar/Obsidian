@@ -8,11 +8,11 @@ aliases:
 
 
 # Early Life
-Born in the [[Age of Darkness]] alongside [[Bloods]], 
+Born in the [[Age of Darkness]] alongside [[Characters/Ascendants/Transcension Candidates/Mara]], 
 
-Blood Father awakened him when reviving him based on a human revival method [[Bloods]] made for himself which gave him human intelligence allowing him to learn flows.
+Blood Father awakened him when reviving him based on a human revival method [[Characters/Ascendants/Transcension Candidates/Mara]] made for himself which gave him human intelligence allowing him to learn flows.
 
-Learnt all of the Aspectual Formations designed by [[Bloods]], so he effectively fights in the same style, just at a lower level (he still massively surpasses all other [[Stage 0]] and can fight standard [[Stage 1]])
+Learnt all of the Aspectual Formations designed by [[Characters/Ascendants/Transcension Candidates/Mara]], so he effectively fights in the same style, just at a lower level (he still massively surpasses all other [[Stage 0]] and can fight standard [[Stage 1]])
 
 # Current Era
 

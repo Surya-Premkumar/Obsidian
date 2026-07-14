@@ -9,7 +9,7 @@ Purify to [[Stage 2]]
 
 # List
 ### Volume 1
-- [[Bloods]]
+- [[Characters/Ascendants/Transcension Candidates/Mara]]
 - [[Boundless Dreamer Seeking Reality]]
 - [[Ceaseless Calamities]]
 - [[Cold Steel Pride Authority]]
