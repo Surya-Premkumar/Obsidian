@@ -19,7 +19,7 @@ A person's Dao Pursuit is split into 4 Fragments
 
 # Soul
 
-The soul is made of countless uncontrolled flows. When [[Stage 0|People]] create flows in the soul, it just adds more chaos to the soul usually. Some flows can revolve around themselves and create islands that spiral in on themselves (like whirlpools in the river). These Points are [[Aspects]]. Once an Aspectual Formation is created, itself becomes semi permanent and starts generating principles built directly for the Formation of the soul. This is [[Stage 1]].
+The soul is made of countless uncontrolled flows of all the evens in their life. When [[Stage 0|People]] create flows on the soul, it just adds more chaos to the soul usually. Some flows can revolve around themselves and create islands that spiral in on themselves (like whirlpools in the river). These Points are [[Aspects]]. Once an Aspectual Formation is created, itself becomes semi permanent and starts generating principles built directly for the Formation of the soul. This is [[Stage 1]].
 
 ### Aspects
 If multiple complete flows revolve around a point, that point becomes semi permanent in the non permanent, uncontrollable soul.

@@ -1,0 +1,5 @@
+---
+tags:
+  - Dao
+---
+- [[Sword Supreme]]
