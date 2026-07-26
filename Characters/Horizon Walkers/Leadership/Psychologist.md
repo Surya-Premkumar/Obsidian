@@ -5,6 +5,6 @@ tags:
   - Horizon_Walker
 ---
 
-De facto Leader of the [[Horizon Walkers]]
+De facto Leader of the [[Nomads]]
 
 Specialises in 

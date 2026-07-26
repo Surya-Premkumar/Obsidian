@@ -6,7 +6,7 @@ An organisation
 
 # List
 
- - [[Horizon Walkers]] Militia
+ - [[Nomads]] Militia
  - [[Stability Society]] Society
  - [[Covenant]] Sect
  - [[Clans of Evolution]] Unified Clans

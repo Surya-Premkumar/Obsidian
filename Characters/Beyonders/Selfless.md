@@ -2,7 +2,6 @@
 tags:
   - Character
 aliases:
-  - Soul Smith
   - Smith
 ---
 Complete maniac.
@@ -13,10 +12,12 @@ Soul dissipated unnaturally leaving him as a body acting on instincts. By the ti
 Each soul shard has their own Aspectual Formation and generates their own unique [[Principle|Principles]], making him the most versatile [[Stage 1]] to exist.
 
 
+
+
 # Fragments 
 
 ### Wheel of fortune 
-Manages/ protects the [[Fate and Destiny]] of [[Soulless]]
+Manages/ protects the [[Fate and Destiny]] of [[Selfless]]
 
 
 ### The Hermit
@@ -28,4 +29,8 @@ Experiments on [[Person|People]] to attempt to recreate a multi-soul vessel to c
 # [[Soul]]
 
 ### Soul Manifestation at the Border of Life and Death 
-When the mortal body reaches its limit and is about to die, the tether between the soul and the body is at its weakest, and when [[Soulless]] is at his strongest. He can manifest multiple soul shards into soul manifestations, allowing them to act independently of the main body, multiplying his combat power by turning him into a small army who can work in perfect unison.
+When the mortal body reaches its limit and is about to die, the tether between the soul and the body is at its weakest, and when [[Selfless]] is at his strongest. He can manifest multiple soul shards into soul manifestations, allowing them to act independently of the main body, multiplying his combat power by turning him into a small army who can work in perfect unison.
+
+### [[Veil of Life and Death]]
+
+Exists trapped in the veil of life and death, 

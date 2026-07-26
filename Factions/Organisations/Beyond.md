@@ -3,9 +3,9 @@ tags:
   - Faction
 ---
 Members 
-- [[Soulless]]
+- [[Selfless]]
 - [[Isolations]]
-- [[Eternal]]
+- [[Time Guy]]
 
 
 Future members 

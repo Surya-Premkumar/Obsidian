@@ -4,7 +4,7 @@ node_size: "1"
 #Character #Horizon_Walker
 Specialises in Strength, sub principle is Space.
 
-Faction Head of the Combat Initiative of the [[Horizon Walkers]]
+Faction Head of the Combat Initiative of the [[Nomads]]
 
 # Early Life
 One of the 6 alongside [[Psychologist]], [[Scientist]] and [[Management]]

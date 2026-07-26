@@ -2,12 +2,14 @@
 tags:
   - Character
 aliases:
-  - Without Beginning nor End
 ---
 A [[Monster]] trapped in the [[Web of Space & Time]], used the distorted time to interfere with existence.
 
 
 # Transcendence Candidacy 
+
+### [[Web of Space & Time]]
+
 
 
 

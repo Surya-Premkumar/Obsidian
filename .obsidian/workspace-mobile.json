@@ -18,23 +18,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "2cc9989a047a0c9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dao/Life/Person.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Person"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,43 +166,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "2cc9989a047a0c9d",
+  "active": "bcc4dffeafef1a1e",
   "lastOpenFiles": [
-    "Dao/Life/Monster.md",
-    "Dao/Life/Person.md",
-    "Dao/Stages/Stage 1.md",
-    "Dao/Stages/Stage 0.md",
-    "Death.md",
-    "Characters/Murim Alliance/Sword Supreme.md",
-    "Dao/Principles/Blade.md",
-    "Characters/Ascendants/Transcension Candidates/Mara.md",
-    "A Matter of Principles/Volume 3.md",
-    "Characters/Stability Faction/Stability Leader.md",
-    "Lord of the Mountain.md",
-    "Factions/Societies/Caldera.md",
-    "Factions/Societies/Society.md",
-    "Factions/Coalitions/Seafarers.md",
-    "Factions/Societies",
-    "A Matter of Principles/Volume 1.md",
-    "Characters/Beyonders/Isolations.md",
-    "Characters/Solo/Yama.md",
-    "zFiles/tattoo.mp4",
     "A Matter of Principles/Volume 2.md",
-    "Formations/Transcending the Heavens in a Single Step.md",
-    "Formations/Project Alpha-7.md",
-    "Nebula.md",
-    "Characters/Ascendants/Transcension Candidates/Eternal.md",
-    "Factions/Organisations/Horizon Walkers.md",
-    "Characters/Horizon Walkers/Scouted/Sound of the Wind.md",
-    "Characters/Ascendants/Transcension Candidates/Boundless Dreamer Seeking Reality.md",
-    "Dao/Principles/Blood.md",
+    "Regions/Azure Star System/Azure Star System.md",
+    "Factions/Organisations/Nomads.md",
+    "A Matter of Principles/A Matter of Principles.md",
+    "A Matter of Principles/Volume 3.md",
+    "A Matter of Principles/Volume 1.md",
+    "Characters/Ascendants/Transcension Candidates/Time Guy.md",
+    "Dao/Life/Death.md",
+    "Regions/Caldera.md",
+    "Dao/Principles/Qi.md",
     "Untitled.base",
+    "Regions/Rivers and Lakes/Land of Rivers and Lakes.md",
+    "Regions/Black Hole.md",
+    "Characters/Covenant/Asura.md",
+    "Regions/Rivers and Lakes",
+    "Regions/System A/System A.md",
+    "Regions/Black Haven/Planet X.md",
+    "Regions/Black Haven",
+    "Regions/System A",
+    "Regions/System A/Planet A.md",
+    "Regions/Artificial Heaven.md",
+    "Regions/Land of Demons",
+    "Regions/Havens/Haven.md",
+    "Characters/Ascendants/Sage of Humanity.md",
+    "Regions/Veil of Life and Death.md",
+    "Characters/Beyonders/Selfless.md",
+    "Characters/Ascendants/Transcension Candidates/Mara.md",
+    "Characters/Murim Alliance/Great Martial.md",
+    "Regions/Azure Star System",
+    "Dao/Life/Person.md",
+    "Characters/Beyonders/Isolations.md",
+    "Dao/Life/Monster.md",
+    "Factions/Societies",
+    "zFiles/tattoo.mp4",
     "Dao/Life",
-    "Characters/Murim Alliance",
-    "zFiles",
-    "A Matter of Principles/Untitled",
-    "A Matter of Principles",
-    "Dao/Magic",
-    "Formations"
+    "Characters/Murim Alliance"
   ]
 }
