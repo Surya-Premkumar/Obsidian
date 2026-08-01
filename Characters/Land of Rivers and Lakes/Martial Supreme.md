@@ -4,4 +4,8 @@ tags:
 ---
 Martial arts guy
 
-### 
+# [[Strength]]
+
+# [[Qi]]
+
+
