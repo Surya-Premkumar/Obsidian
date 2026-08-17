@@ -4,4 +4,4 @@ tags:
 aliases:
   - Human Supreme
 ---
-Creating [[Humanity Formation]] using [[Person|People]] as Formation Cores to surround the [[Veil of Life and Death]]
+Creating [[Humanity Supreme]] using [[Person|People]] as Formation Cores to surround the [[Veil of Life and Death]]

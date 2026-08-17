@@ -20,5 +20,5 @@ Spent the first 6 months partially following the mission but mostly fucking arou
 
 # Death
 
-Bridges the gap to Transcendence directly by using the strength of the [[Black Hole]], that the [[Nomads]] live on the edge of, to annihilate [[Stability Society]]'s Army. Should be an Oh Fuck moment / Eldritch Horror levels of, we aint seen anyo f this shit, REF< WHERE TF IS THE REF. 
+Bridges the gap to Transcendence directly by using the strength of the [[Stuff/Bodies/Black Hole]], that the [[Nomads]] live on the edge of, to annihilate [[Stability Society]]'s Army. Should be an Oh Fuck moment / Eldritch Horror levels of, we aint seen anyo f this shit, REF< WHERE TF IS THE REF. 
 
