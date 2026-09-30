@@ -3,8 +3,6 @@ tags:
   - Character
 node_size: "2"
 aliases:
-  - The Light of Heaven
-  - He without Shadow
 ---
 
 
