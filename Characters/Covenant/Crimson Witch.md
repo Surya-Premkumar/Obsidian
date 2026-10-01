@@ -3,8 +3,7 @@ tags:
   - Character
   - Covenant
 aliases:
-  - Laura Smith
-  - Jane Smith
+  - Sixth Senior Disciple
 ---
 Originally the body of a orphaned child dying at war, revived by [[Selfless]] for experimentation. Survived the aforementioned experiments with a soul split into 2 incomplete soul shards. 
 

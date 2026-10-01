@@ -5,7 +5,8 @@ aliases:
   - Blood Siege Demon
 node_size: "2"
 ---
-Progenitor of [[Blood]] Path. Likely the greatest talent to ever exist in the world. Expanded Blood to incorporate the strengths of every other path . 
+Progenitor of [[Blood]] Path
+Founder of the [[Covenant]]
 
 
 # Life
@@ -15,7 +16,9 @@ Progenitor of [[Blood]] Path. Likely the greatest talent to ever exist in the wo
 
 
 ### 20
-Wiped out [[Random Clan idk]] using with his first unique flow [Stain]
+Lays Siege to a City while secretly poison their water supply, forcing them all to death
+
+Gathers a pack of [[Red Wolf|Red Wolves]] to hold his [[Blood]] while travelling 
 
 
 
@@ -25,16 +28,31 @@ Wiped out [[Random Clan idk]] using with his first unique flow [Stain]
 
 # Disciples
 ### [[Thousands]]
-His early years
+His [[Blood Centipede]]
 
-### [[Crimson Witch]]
+### [[Varuna]]
+Taken in as his first true disciple, being taught in a well rounded manner about [[Blood]]
+
+### [[Third Senior Disciple]]
+Another Woman
+
 
 ### [[Asura]]
 
 
-### [[Sound of the Wind]]
+### [[Blood Tyrant]]
 
-# [[Covenant]]
+
+### [[Crimson Witch]]
+
+
+
+
+
+
+
+
+
 
 # [[Stage 2|Transcendence]] Candidacy 
 
@@ -68,5 +86,3 @@ Version 2: [[Blood Body|Blood Bodies]] can now be recreated from Blood Sea Reviv
 
 Creates a [[Blood Body]] 
 
-### Stain
-the core of which is [Dismissal], allowing him to use his power to counter the resistance of human souls to external flows. 

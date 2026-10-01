@@ -15,12 +15,12 @@ node_size: "3"
 
 [[Red Star]] is has been empty for time 
 
-This is when [[Characters/Ascendants/Transcension Candidates/Mara]] and [[Boundless Dreamer Seeking Reality]] begin their transcension.
+This is when [[Characters/Ascendants/Transcension Candidates/Mara]] and [[Boundless]] begin their transcension.
 
 [[Characters/Ascendants/Transcension Candidates/Mara]] begin his transcension, absorbing the [[Blood Sea]], starting body reformation.
 
 
-Forcing [[Boundless Dreamer Seeking Reality]] to start their transcension early. They 
+Forcing [[Boundless]] to start their transcension early. They 
 
 
 [[Thousands]] 

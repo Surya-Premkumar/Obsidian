@@ -2,7 +2,7 @@
 tags:
   - Formation
 ---
-Created by [[Boundless Dreamer Seeking Reality]] and [[Time Guy]].
+Created by [[Boundless]] and [[Time Guy]].
 
 Used by [[Nomads|Nomads]] to explore [[Era of Order]] usually.
 

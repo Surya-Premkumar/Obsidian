@@ -10,7 +10,7 @@ Purify to [[Stage 2]]
 # List
 ### Volume 1
 - [[Characters/Ascendants/Transcension Candidates/Mara]]
-- [[Boundless Dreamer Seeking Reality]]
+- [[Boundless]]
 - [[Ceaseless Calamities]]
 - [[Cold Steel Pride Authority]]
 - [[Daoist Carving the Path]]

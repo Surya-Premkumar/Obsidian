@@ -3,12 +3,12 @@ tags:
   - Character
   - Covenant
 aliases:
-  - First Born of Blood
+  - First Senior Disciple
 ---
 
-
+Is a [[Blood Centipede]]
 # Early Life
-Born in the [[Age of Darkness]] alongside [[Characters/Ascendants/Transcension Candidates/Mara]], 
+Born in the [[Age of Darkness]] alongside [[Mara]]
 
 Blood Father awakened him when reviving him based on a human revival method [[Characters/Ascendants/Transcension Candidates/Mara]] made for himself which gave him human intelligence allowing him to learn flows.
 

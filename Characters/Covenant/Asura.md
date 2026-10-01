@@ -1,6 +1,8 @@
 ---
 tags:
   - Character
+aliases:
+  - Fourth Senior Disciple
 ---
 Head of the Blood Monk Faction of the [[Covenant]]
 

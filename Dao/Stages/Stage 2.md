@@ -12,7 +12,7 @@ Unified from [[Stage 1]]
 
 
 Candidates
-- [[Boundless Dreamer Seeking Reality]]
+- [[Boundless]]
 - [[Characters/Ascendants/Transcension Candidates/Mara]]
 - [[Time Guy]]
 - [[Main Character|Light of Heaven]]

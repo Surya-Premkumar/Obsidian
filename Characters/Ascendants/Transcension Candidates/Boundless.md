@@ -3,7 +3,7 @@ tags:
   - Character
 node_size: "2"
 aliases:
-  - Unbound by Reality
+  - Boundless Dreamer Seeking Reality
 ---
 
 Principle: Law
